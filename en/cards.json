@@ -1,0 +1,2882 @@
+[
+ {
+  "yi": "YI01",
+  "name": "乾",
+  "name_en": "The Creative",
+  "full_name_en": "Heaven",
+  "upper": "Heaven",
+  "lower": "Heaven",
+  "bits": "111111",
+  "situation_en": "Heaven in motion — you are opening the game, driving it forward on your own strength.",
+  "source_en": "I Ching, Hexagram 1",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI44",
+    "target_name_en": "Coming to Meet"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI13",
+    "target_name_en": "Fellowship"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI10",
+    "target_name_en": "Treading"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI09",
+    "target_name_en": "The Taming Power of the Small"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI14",
+    "target_name_en": "Possession in Great Measure"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI43",
+    "target_name_en": "Break-through"
+   }
+  ],
+  "boundary_en": "Does not predict how far the opening move can go; does not answer whether to move fast or slow, advance or retreat.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI01.png"
+ },
+ {
+  "yi": "YI02",
+  "name": "坤",
+  "name_en": "The Receptive",
+  "full_name_en": "Earth",
+  "upper": "Earth",
+  "lower": "Earth",
+  "bits": "000000",
+  "situation_en": "Earth that carries — you are in the supporting role, receiving momentum and holding things steady.",
+  "source_en": "I Ching, Hexagram 2",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI24",
+    "target_name_en": "Return"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI07",
+    "target_name_en": "The Army"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI15",
+    "target_name_en": "Modesty"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI16",
+    "target_name_en": "Enthusiasm"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI08",
+    "target_name_en": "Holding Together"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI23",
+    "target_name_en": "Splitting Apart"
+   }
+  ],
+  "boundary_en": "Does not predict how long riding the momentum can last; does not answer whom to follow, or whether to let go or take over.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI02.png"
+ },
+ {
+  "yi": "YI03",
+  "name": "屯",
+  "name_en": "Difficulty at the Beginning",
+  "full_name_en": "Water over Thunder",
+  "upper": "Water",
+  "lower": "Thunder",
+  "bits": "100010",
+  "situation_en": "The hardest part is the beginning — the idea exists but the road isn't open yet, like sprouts pushing through soil.",
+  "source_en": "I Ching, Hexagram 3",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI08",
+    "target_name_en": "Holding Together"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI60",
+    "target_name_en": "Limitation"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI63",
+    "target_name_en": "After Completion"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI17",
+    "target_name_en": "Following"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI24",
+    "target_name_en": "Return"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI42",
+    "target_name_en": "Increase"
+   }
+  ],
+  "boundary_en": "Does not predict when the hard part will pass; does not answer whether to hold on or turn back.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI03.png"
+ },
+ {
+  "yi": "YI04",
+  "name": "蒙",
+  "name_en": "Youthful Folly",
+  "full_name_en": "Mountain over Water",
+  "upper": "Mountain",
+  "lower": "Water",
+  "bits": "010001",
+  "situation_en": "Darkness before dawn — facing what you don't yet understand; someone must light the lamp, or you pay tuition to learn.",
+  "source_en": "I Ching, Hexagram 4",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI41",
+    "target_name_en": "Decrease"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI23",
+    "target_name_en": "Splitting Apart"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI18",
+    "target_name_en": "Work on What Has Been Spoiled"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI64",
+    "target_name_en": "Before Completion"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI59",
+    "target_name_en": "Dispersion"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI07",
+    "target_name_en": "The Army"
+   }
+  ],
+  "boundary_en": "Does not predict when understanding will dawn; does not answer whom to ask, or whether to study on or let go.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI04.png"
+ },
+ {
+  "yi": "YI05",
+  "name": "需",
+  "name_en": "Waiting",
+  "full_name_en": "Water over Heaven",
+  "upper": "Water",
+  "lower": "Heaven",
+  "bits": "111010",
+  "situation_en": "Clouds thick but no rain — the moment hasn't come; all you can do is wait, like waiting for rain.",
+  "source_en": "I Ching, Hexagram 5",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI48",
+    "target_name_en": "The Well"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI63",
+    "target_name_en": "After Completion"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI60",
+    "target_name_en": "Limitation"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI43",
+    "target_name_en": "Break-through"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI11",
+    "target_name_en": "Peace"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI09",
+    "target_name_en": "The Taming Power of the Small"
+   }
+  ],
+  "boundary_en": "Does not predict how long the wait will be; does not answer whether to wait idly or do something else meanwhile.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI05.png"
+ },
+ {
+  "yi": "YI06",
+  "name": "讼",
+  "name_en": "Conflict",
+  "full_name_en": "Heaven over Water",
+  "upper": "Heaven",
+  "lower": "Water",
+  "bits": "010111",
+  "situation_en": "Two sides, each convinced they're right — you're in a dispute that can't be talked out privately.",
+  "source_en": "I Ching, Hexagram 6",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI10",
+    "target_name_en": "Treading"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI12",
+    "target_name_en": "Standstill"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI44",
+    "target_name_en": "Coming to Meet"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI59",
+    "target_name_en": "Dispersion"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI64",
+    "target_name_en": "Before Completion"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI47",
+    "target_name_en": "Oppression"
+   }
+  ],
+  "boundary_en": "Does not predict who wins and who loses; does not answer whether to fight to the end or yield a step.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI06.png"
+ },
+ {
+  "yi": "YI07",
+  "name": "师",
+  "name_en": "The Army",
+  "full_name_en": "Earth over Water",
+  "upper": "Earth",
+  "lower": "Water",
+  "bits": "010000",
+  "situation_en": "Leading troops into a hard fight — you're not alone; discipline and direction rest on you.",
+  "source_en": "I Ching, Hexagram 7",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI19",
+    "target_name_en": "Approach"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI02",
+    "target_name_en": "The Receptive"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI46",
+    "target_name_en": "Pushing Upward"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI40",
+    "target_name_en": "Deliverance"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI29",
+    "target_name_en": "The Abysmal"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI04",
+    "target_name_en": "Youthful Folly"
+   }
+  ],
+  "boundary_en": "Does not predict how long the battle will run; does not answer whether to attack or defend, reward or punish.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI07.png"
+ },
+ {
+  "yi": "YI08",
+  "name": "比",
+  "name_en": "Holding Together",
+  "full_name_en": "Water over Earth",
+  "upper": "Water",
+  "lower": "Earth",
+  "bits": "000010",
+  "situation_en": "People drawing close — you are the one others lean on; a network is forming around you.",
+  "source_en": "I Ching, Hexagram 8",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI03",
+    "target_name_en": "Difficulty at the Beginning"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI29",
+    "target_name_en": "The Abysmal"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI39",
+    "target_name_en": "Obstruction"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI45",
+    "target_name_en": "Gathering Together"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI02",
+    "target_name_en": "The Receptive"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI20",
+    "target_name_en": "Contemplation"
+   }
+  ],
+  "boundary_en": "Does not predict how long people will stay gathered; does not answer whom to draw close to or keep at a distance.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI08.png"
+ },
+ {
+  "yi": "YI09",
+  "name": "小畜",
+  "name_en": "The Taming Power of the Small",
+  "full_name_en": "Wind over Heaven",
+  "upper": "Wind",
+  "lower": "Heaven",
+  "bits": "111011",
+  "situation_en": "Small savings, small obstacles — you've gathered something, but not enough; clouds gather, rain hasn't fallen.",
+  "source_en": "I Ching, Hexagram 9",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI57",
+    "target_name_en": "The Gentle"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI37",
+    "target_name_en": "The Family"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI61",
+    "target_name_en": "Inner Truth"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI01",
+    "target_name_en": "The Creative"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI26",
+    "target_name_en": "The Taming Power of the Great"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI05",
+    "target_name_en": "Waiting"
+   }
+  ],
+  "boundary_en": "Does not predict when enough will be saved up; does not answer whether to keep saving or start spending.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI09.png"
+ },
+ {
+  "yi": "YI10",
+  "name": "履",
+  "name_en": "Treading",
+  "full_name_en": "Heaven over Lake",
+  "upper": "Heaven",
+  "lower": "Lake",
+  "bits": "110111",
+  "situation_en": "Treading on thin ice — every step must land sure; slow, but steady.",
+  "source_en": "I Ching, Hexagram 10",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI06",
+    "target_name_en": "Conflict"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI25",
+    "target_name_en": "Innocence"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI01",
+    "target_name_en": "The Creative"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI61",
+    "target_name_en": "Inner Truth"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI38",
+    "target_name_en": "Opposition"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI58",
+    "target_name_en": "The Joyous"
+   }
+  ],
+  "boundary_en": "Does not predict when the ice will thicken; does not answer whether to hurry across or go around.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI10.png"
+ },
+ {
+  "yi": "YI11",
+  "name": "泰",
+  "name_en": "Peace",
+  "full_name_en": "Earth over Heaven",
+  "upper": "Earth",
+  "lower": "Heaven",
+  "bits": "111000",
+  "situation_en": "Heaven and earth in harmony — channels open, resistance low, like early spring when everything grows.",
+  "source_en": "I Ching, Hexagram 11",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI46",
+    "target_name_en": "Pushing Upward"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI36",
+    "target_name_en": "Darkening of the Light"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI19",
+    "target_name_en": "Approach"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI34",
+    "target_name_en": "The Power of the Great"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI05",
+    "target_name_en": "Waiting"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI26",
+    "target_name_en": "The Taming Power of the Great"
+   }
+  ],
+  "boundary_en": "Does not predict how long fair winds will last; does not answer whether to expand or pull back.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI11.png"
+ },
+ {
+  "yi": "YI12",
+  "name": "否",
+  "name_en": "Standstill",
+  "full_name_en": "Heaven over Earth",
+  "upper": "Heaven",
+  "lower": "Earth",
+  "bits": "000111",
+  "situation_en": "Heaven and earth apart — nothing gets through; it's like being muted, everyone talking past each other.",
+  "source_en": "I Ching, Hexagram 12",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI25",
+    "target_name_en": "Innocence"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI06",
+    "target_name_en": "Conflict"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI33",
+    "target_name_en": "Retreat"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI20",
+    "target_name_en": "Contemplation"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI35",
+    "target_name_en": "Progress"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI45",
+    "target_name_en": "Gathering Together"
+   }
+  ],
+  "boundary_en": "Does not predict when the blockage will open; does not answer whether to keep knocking or find another road.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI12.png"
+ },
+ {
+  "yi": "YI13",
+  "name": "同人",
+  "name_en": "Fellowship",
+  "full_name_en": "Heaven over Fire",
+  "upper": "Heaven",
+  "lower": "Fire",
+  "bits": "101111",
+  "situation_en": "Among fellow travelers — you're with people heading the same way, pulling together.",
+  "source_en": "I Ching, Hexagram 13",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI33",
+    "target_name_en": "Retreat"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI01",
+    "target_name_en": "The Creative"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI25",
+    "target_name_en": "Innocence"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI37",
+    "target_name_en": "The Family"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI30",
+    "target_name_en": "The Clinging"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI49",
+    "target_name_en": "Revolution"
+   }
+  ],
+  "boundary_en": "Does not predict how far fellow travelers can go together; does not answer whom to ally with or keep at arm's length.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI13.png"
+ },
+ {
+  "yi": "YI14",
+  "name": "大有",
+  "name_en": "Possession in Great Measure",
+  "full_name_en": "Fire over Heaven",
+  "upper": "Fire",
+  "lower": "Heaven",
+  "bits": "111101",
+  "situation_en": "Hands full — a time of abundance; resources and options are plenty, enough to distract.",
+  "source_en": "I Ching, Hexagram 14",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI50",
+    "target_name_en": "The Cauldron"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI30",
+    "target_name_en": "The Clinging"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI38",
+    "target_name_en": "Opposition"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI26",
+    "target_name_en": "The Taming Power of the Great"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI01",
+    "target_name_en": "The Creative"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI34",
+    "target_name_en": "The Power of the Great"
+   }
+  ],
+  "boundary_en": "Does not predict how long abundance will last; does not answer whether to hold what there is or invest again.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI14.png"
+ },
+ {
+  "yi": "YI15",
+  "name": "谦",
+  "name_en": "Modesty",
+  "full_name_en": "Earth over Mountain",
+  "upper": "Earth",
+  "lower": "Mountain",
+  "bits": "001000",
+  "situation_en": "Low profile, wide road — humility opens doors here; stepping back creates space.",
+  "source_en": "I Ching, Hexagram 15",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI36",
+    "target_name_en": "Darkening of the Light"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI46",
+    "target_name_en": "Pushing Upward"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI02",
+    "target_name_en": "The Receptive"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI62",
+    "target_name_en": "Preponderance of the Small"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI39",
+    "target_name_en": "Obstruction"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI52",
+    "target_name_en": "Keeping Still"
+   }
+  ],
+  "boundary_en": "Does not predict when keeping a low profile will pay off; does not answer how deep to hide or how much to show.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI15.png"
+ },
+ {
+  "yi": "YI16",
+  "name": "豫",
+  "name_en": "Enthusiasm",
+  "full_name_en": "Thunder over Earth",
+  "upper": "Thunder",
+  "lower": "Earth",
+  "bits": "000100",
+  "situation_en": "Easy times — relaxed and pleasant; enjoyment now, but vigilance tends to slip.",
+  "source_en": "I Ching, Hexagram 16",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI51",
+    "target_name_en": "The Arousing"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI40",
+    "target_name_en": "Deliverance"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI62",
+    "target_name_en": "Preponderance of the Small"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI02",
+    "target_name_en": "The Receptive"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI45",
+    "target_name_en": "Gathering Together"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI35",
+    "target_name_en": "Progress"
+   }
+  ],
+  "boundary_en": "Does not predict how long the easy days will last; does not answer whether to enjoy the moment or prepare for rain.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI16.png"
+ },
+ {
+  "yi": "YI17",
+  "name": "随",
+  "name_en": "Following",
+  "full_name_en": "Lake over Thunder",
+  "upper": "Lake",
+  "lower": "Thunder",
+  "bits": "100110",
+  "situation_en": "Following — the wheel isn't in your hands; choosing whom to follow matters more than speed.",
+  "source_en": "I Ching, Hexagram 17",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI45",
+    "target_name_en": "Gathering Together"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI58",
+    "target_name_en": "The Joyous"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI49",
+    "target_name_en": "Revolution"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI03",
+    "target_name_en": "Difficulty at the Beginning"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI51",
+    "target_name_en": "The Arousing"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI25",
+    "target_name_en": "Innocence"
+   }
+  ],
+  "boundary_en": "Does not predict how far the one followed can go; does not answer whether to keep following or go solo.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI17.png"
+ },
+ {
+  "yi": "YI18",
+  "name": "蛊",
+  "name_en": "Work on What Has Been Spoiled",
+  "full_name_en": "Mountain over Wind",
+  "upper": "Mountain",
+  "lower": "Wind",
+  "bits": "011001",
+  "situation_en": "The house needs repair — long-accumulated problems; nothing formed overnight, each must be dug out and fixed.",
+  "source_en": "I Ching, Hexagram 18",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI26",
+    "target_name_en": "The Taming Power of the Great"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI52",
+    "target_name_en": "Keeping Still"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI04",
+    "target_name_en": "Youthful Folly"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI50",
+    "target_name_en": "The Cauldron"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI57",
+    "target_name_en": "The Gentle"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI46",
+    "target_name_en": "Pushing Upward"
+   }
+  ],
+  "boundary_en": "Does not predict how long repairs will take; does not answer which problem to fix first, or whether to overhaul or patch.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI18.png"
+ },
+ {
+  "yi": "YI19",
+  "name": "临",
+  "name_en": "Approach",
+  "full_name_en": "Earth over Lake",
+  "upper": "Earth",
+  "lower": "Lake",
+  "bits": "110000",
+  "situation_en": "Right at the front — you're close to the action; things are visible, tangible, within reach.",
+  "source_en": "I Ching, Hexagram 19",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI07",
+    "target_name_en": "The Army"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI24",
+    "target_name_en": "Return"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI11",
+    "target_name_en": "Peace"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI54",
+    "target_name_en": "The Marrying Maiden"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI60",
+    "target_name_en": "Limitation"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI41",
+    "target_name_en": "Decrease"
+   }
+  ],
+  "boundary_en": "Does not predict what comes after drawing near; does not answer whether to handle things personally or let go.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI19.png"
+ },
+ {
+  "yi": "YI20",
+  "name": "观",
+  "name_en": "Contemplation",
+  "full_name_en": "Wind over Earth",
+  "upper": "Wind",
+  "lower": "Earth",
+  "bits": "000011",
+  "situation_en": "Watching from above — in the observer's seat; see the whole picture before stepping in.",
+  "source_en": "I Ching, Hexagram 20",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI42",
+    "target_name_en": "Increase"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI59",
+    "target_name_en": "Dispersion"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI53",
+    "target_name_en": "Development"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI12",
+    "target_name_en": "Standstill"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI23",
+    "target_name_en": "Splitting Apart"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI08",
+    "target_name_en": "Holding Together"
+   }
+  ],
+  "boundary_en": "Does not predict what conclusion observation will yield; does not answer when to step in or how long to keep watching.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI20.png"
+ },
+ {
+  "yi": "YI21",
+  "name": "噬嗑",
+  "name_en": "Biting Through",
+  "full_name_en": "Fire over Thunder",
+  "upper": "Fire",
+  "lower": "Thunder",
+  "bits": "100101",
+  "situation_en": "A bone stuck in the throat — an obstacle lodged across the path; it must be bitten through to move on.",
+  "source_en": "I Ching, Hexagram 21",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI35",
+    "target_name_en": "Progress"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI38",
+    "target_name_en": "Opposition"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI30",
+    "target_name_en": "The Clinging"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI27",
+    "target_name_en": "Nourishment"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI25",
+    "target_name_en": "Innocence"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI51",
+    "target_name_en": "The Arousing"
+   }
+  ],
+  "boundary_en": "Does not predict how hard the bone is to bite through; does not answer whether to bite through it or go around.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI21.png"
+ },
+ {
+  "yi": "YI22",
+  "name": "贲",
+  "name_en": "Grace",
+  "full_name_en": "Mountain over Fire",
+  "upper": "Mountain",
+  "lower": "Fire",
+  "bits": "101001",
+  "situation_en": "Appearances matter — a time for polish and presentation; the surface must hold before anything else.",
+  "source_en": "I Ching, Hexagram 22",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI52",
+    "target_name_en": "Keeping Still"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI26",
+    "target_name_en": "The Taming Power of the Great"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI27",
+    "target_name_en": "Nourishment"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI30",
+    "target_name_en": "The Clinging"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI37",
+    "target_name_en": "The Family"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI36",
+    "target_name_en": "Darkening of the Light"
+   }
+  ],
+  "boundary_en": "Does not predict how long appearances can hold; does not answer whether substance or surface matters more.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI22.png"
+ },
+ {
+  "yi": "YI23",
+  "name": "剥",
+  "name_en": "Splitting Apart",
+  "full_name_en": "Mountain over Earth",
+  "upper": "Mountain",
+  "lower": "Earth",
+  "bits": "000001",
+  "situation_en": "Paint peeling off the wall — things being stripped away layer by layer; watch what remains.",
+  "source_en": "I Ching, Hexagram 23",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI27",
+    "target_name_en": "Nourishment"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI04",
+    "target_name_en": "Youthful Folly"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI52",
+    "target_name_en": "Keeping Still"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI35",
+    "target_name_en": "Progress"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI20",
+    "target_name_en": "Contemplation"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI02",
+    "target_name_en": "The Receptive"
+   }
+  ],
+  "boundary_en": "Does not predict when the peeling will reach bottom; does not answer whether to reinforce or abandon.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI23.png"
+ },
+ {
+  "yi": "YI24",
+  "name": "复",
+  "name_en": "Return",
+  "full_name_en": "Earth over Thunder",
+  "upper": "Earth",
+  "lower": "Thunder",
+  "bits": "100000",
+  "situation_en": "The turn — at the pivot from decline to renewal; the old is spent, the new just sprouts.",
+  "source_en": "I Ching, Hexagram 24",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI02",
+    "target_name_en": "The Receptive"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI19",
+    "target_name_en": "Approach"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI36",
+    "target_name_en": "Darkening of the Light"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI51",
+    "target_name_en": "The Arousing"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI03",
+    "target_name_en": "Difficulty at the Beginning"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI27",
+    "target_name_en": "Nourishment"
+   }
+  ],
+  "boundary_en": "Does not predict how fast the recovery will come; does not answer whether to double down or wait and see.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI24.png"
+ },
+ {
+  "yi": "YI25",
+  "name": "无妄",
+  "name_en": "Innocence",
+  "full_name_en": "Heaven over Thunder",
+  "upper": "Heaven",
+  "lower": "Thunder",
+  "bits": "100111",
+  "situation_en": "Don't stir trouble — a time when restraint keeps you safe; hold your ground, add nothing extra.",
+  "source_en": "I Ching, Hexagram 25",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI12",
+    "target_name_en": "Standstill"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI10",
+    "target_name_en": "Treading"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI13",
+    "target_name_en": "Fellowship"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI42",
+    "target_name_en": "Increase"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI21",
+    "target_name_en": "Biting Through"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI17",
+    "target_name_en": "Following"
+   }
+  ],
+  "boundary_en": "Does not predict how long staying put keeps things safe; does not answer whether to hold the ground or probe ahead.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI25.png"
+ },
+ {
+  "yi": "YI26",
+  "name": "大畜",
+  "name_en": "The Taming Power of the Great",
+  "full_name_en": "Mountain over Heaven",
+  "upper": "Mountain",
+  "lower": "Heaven",
+  "bits": "111001",
+  "situation_en": "The granary is full — a phase of deep accumulation; plenty stored, waiting for the moment to act.",
+  "source_en": "I Ching, Hexagram 26",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI18",
+    "target_name_en": "Work on What Has Been Spoiled"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI22",
+    "target_name_en": "Grace"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI41",
+    "target_name_en": "Decrease"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI14",
+    "target_name_en": "Possession in Great Measure"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI09",
+    "target_name_en": "The Taming Power of the Small"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI11",
+    "target_name_en": "Peace"
+   }
+  ],
+  "boundary_en": "Does not predict when the moment will arrive; does not answer whether to keep accumulating or strike.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI26.png"
+ },
+ {
+  "yi": "YI27",
+  "name": "颐",
+  "name_en": "Nourishment",
+  "full_name_en": "Mountain over Thunder",
+  "upper": "Mountain",
+  "lower": "Thunder",
+  "bits": "100001",
+  "situation_en": "Nourishment — everything runs on what feeds it; what you feed, and what feeds you, shapes what grows.",
+  "source_en": "I Ching, Hexagram 27",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI23",
+    "target_name_en": "Splitting Apart"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI41",
+    "target_name_en": "Decrease"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI22",
+    "target_name_en": "Grace"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI21",
+    "target_name_en": "Biting Through"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI42",
+    "target_name_en": "Increase"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI24",
+    "target_name_en": "Return"
+   }
+  ],
+  "boundary_en": "Does not predict how long the nourishment will last; does not answer what to feed, or what to cut off from feeding.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI27.png"
+ },
+ {
+  "yi": "YI28",
+  "name": "大过",
+  "name_en": "Preponderance of the Great",
+  "full_name_en": "Lake over Wind",
+  "upper": "Lake",
+  "lower": "Wind",
+  "bits": "011110",
+  "situation_en": "The beam is bending — an excessive, extraordinary situation; ordinary moves won't do.",
+  "source_en": "I Ching, Hexagram 28",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI43",
+    "target_name_en": "Break-through"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI31",
+    "target_name_en": "Influence"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI47",
+    "target_name_en": "Oppression"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI48",
+    "target_name_en": "The Well"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI32",
+    "target_name_en": "Duration"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI44",
+    "target_name_en": "Coming to Meet"
+   }
+  ],
+  "boundary_en": "Does not predict how long the extraordinary will last; does not answer whether to hold up the beam or replace it.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI28.png"
+ },
+ {
+  "yi": "YI29",
+  "name": "坎",
+  "name_en": "The Abysmal",
+  "full_name_en": "Water",
+  "upper": "Water",
+  "lower": "Water",
+  "bits": "010010",
+  "situation_en": "Danger upon danger — pit after pit; the only way is through, one at a time.",
+  "source_en": "I Ching, Hexagram 29",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI60",
+    "target_name_en": "Limitation"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI08",
+    "target_name_en": "Holding Together"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI48",
+    "target_name_en": "The Well"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI47",
+    "target_name_en": "Oppression"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI07",
+    "target_name_en": "The Army"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI59",
+    "target_name_en": "Dispersion"
+   }
+  ],
+  "boundary_en": "Does not predict when the danger will end; does not answer whether to push through or wait for the waters to recede.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI29.png"
+ },
+ {
+  "yi": "YI30",
+  "name": "离",
+  "name_en": "The Clinging",
+  "full_name_en": "Fire",
+  "upper": "Fire",
+  "lower": "Fire",
+  "bits": "101101",
+  "situation_en": "Fire needs fuel to burn — brightness here depends on attachment; clarity exists, but it clings to something.",
+  "source_en": "I Ching, Hexagram 30",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI56",
+    "target_name_en": "The Wanderer"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI14",
+    "target_name_en": "Possession in Great Measure"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI21",
+    "target_name_en": "Biting Through"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI22",
+    "target_name_en": "Grace"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI13",
+    "target_name_en": "Fellowship"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI55",
+    "target_name_en": "Abundance"
+   }
+  ],
+  "boundary_en": "Does not predict how far the light will reach; does not answer whom to lean on, or whether to stand alone.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI30.png"
+ },
+ {
+  "yi": "YI31",
+  "name": "咸",
+  "name_en": "Influence",
+  "full_name_en": "Lake over Mountain",
+  "upper": "Lake",
+  "lower": "Mountain",
+  "bits": "001110",
+  "situation_en": "A felt response — mutual signals not yet spoken aloud, but both sides have received them.",
+  "source_en": "I Ching, Hexagram 31",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI49",
+    "target_name_en": "Revolution"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI28",
+    "target_name_en": "Preponderance of the Great"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI45",
+    "target_name_en": "Gathering Together"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI39",
+    "target_name_en": "Obstruction"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI62",
+    "target_name_en": "Preponderance of the Small"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI33",
+    "target_name_en": "Retreat"
+   }
+  ],
+  "boundary_en": "Does not predict where the mutual pull will lead; does not answer whether to speak it aloud or wait a little longer.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI31.png"
+ },
+ {
+  "yi": "YI32",
+  "name": "恒",
+  "name_en": "Duration",
+  "full_name_en": "Thunder over Wind",
+  "upper": "Thunder",
+  "lower": "Wind",
+  "bits": "011100",
+  "situation_en": "The long steady stream — winning by endurance here, not by bursts; it's about who doesn't break.",
+  "source_en": "I Ching, Hexagram 32",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI34",
+    "target_name_en": "The Power of the Great"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI62",
+    "target_name_en": "Preponderance of the Small"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI40",
+    "target_name_en": "Deliverance"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI46",
+    "target_name_en": "Pushing Upward"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI28",
+    "target_name_en": "Preponderance of the Great"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI50",
+    "target_name_en": "The Cauldron"
+   }
+  ],
+  "boundary_en": "Does not predict how long endurance can hold; does not answer whether to add more or simply maintain.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI32.png"
+ },
+ {
+  "yi": "YI33",
+  "name": "遁",
+  "name_en": "Retreat",
+  "full_name_en": "Heaven over Mountain",
+  "upper": "Heaven",
+  "lower": "Mountain",
+  "bits": "001111",
+  "situation_en": "Time to step back — retreat is the wiser move now; not surrender, but keeping the mountain green.",
+  "source_en": "I Ching, Hexagram 33",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI13",
+    "target_name_en": "Fellowship"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI44",
+    "target_name_en": "Coming to Meet"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI12",
+    "target_name_en": "Standstill"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI53",
+    "target_name_en": "Development"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI56",
+    "target_name_en": "The Wanderer"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI31",
+    "target_name_en": "Influence"
+   }
+  ],
+  "boundary_en": "Does not predict when retreat can turn back; does not answer how far to withdraw or what to take along.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI33.png"
+ },
+ {
+  "yi": "YI34",
+  "name": "大壮",
+  "name_en": "The Power of the Great",
+  "full_name_en": "Thunder over Heaven",
+  "upper": "Thunder",
+  "lower": "Heaven",
+  "bits": "111100",
+  "situation_en": "Too strong — power in excess; great force snaps easily, holding back travels further.",
+  "source_en": "I Ching, Hexagram 34",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI32",
+    "target_name_en": "Duration"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI55",
+    "target_name_en": "Abundance"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI54",
+    "target_name_en": "The Marrying Maiden"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI11",
+    "target_name_en": "Peace"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI43",
+    "target_name_en": "Break-through"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI14",
+    "target_name_en": "Possession in Great Measure"
+   }
+  ],
+  "boundary_en": "Does not predict when the peak will turn; does not answer whether to rein in or strike while hot.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI34.png"
+ },
+ {
+  "yi": "YI35",
+  "name": "晋",
+  "name_en": "Progress",
+  "full_name_en": "Fire over Earth",
+  "upper": "Fire",
+  "lower": "Earth",
+  "bits": "000101",
+  "situation_en": "Moving up — in an ascending channel, seen and lifted; the steps are underfoot, one at a time.",
+  "source_en": "I Ching, Hexagram 35",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI21",
+    "target_name_en": "Biting Through"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI64",
+    "target_name_en": "Before Completion"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI56",
+    "target_name_en": "The Wanderer"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI23",
+    "target_name_en": "Splitting Apart"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI12",
+    "target_name_en": "Standstill"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI16",
+    "target_name_en": "Enthusiasm"
+   }
+  ],
+  "boundary_en": "Does not predict how high the ascent can go; does not answer whether to climb fast or step steady.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI35.png"
+ },
+ {
+  "yi": "YI36",
+  "name": "明夷",
+  "name_en": "Darkening of the Light",
+  "full_name_en": "Earth over Fire",
+  "upper": "Earth",
+  "lower": "Fire",
+  "bits": "101000",
+  "situation_en": "Light obscured — brightness that can't show itself; keep it hidden and move quietly.",
+  "source_en": "I Ching, Hexagram 36",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI15",
+    "target_name_en": "Modesty"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI11",
+    "target_name_en": "Peace"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI24",
+    "target_name_en": "Return"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI55",
+    "target_name_en": "Abundance"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI63",
+    "target_name_en": "After Completion"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI22",
+    "target_name_en": "Grace"
+   }
+  ],
+  "boundary_en": "Does not predict how long the darkness will last; does not answer whether to stay hidden or risk showing light.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI36.png"
+ },
+ {
+  "yi": "YI37",
+  "name": "家人",
+  "name_en": "The Family",
+  "full_name_en": "Wind over Fire",
+  "upper": "Wind",
+  "lower": "Fire",
+  "bits": "101011",
+  "situation_en": "Household matters — the inside must be set right first; order within, and the outside follows.",
+  "source_en": "I Ching, Hexagram 37",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI53",
+    "target_name_en": "Development"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI09",
+    "target_name_en": "The Taming Power of the Small"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI42",
+    "target_name_en": "Increase"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI13",
+    "target_name_en": "Fellowship"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI22",
+    "target_name_en": "Grace"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI63",
+    "target_name_en": "After Completion"
+   }
+  ],
+  "boundary_en": "Does not predict when household matters will settle; does not answer whether to be strict or lenient.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI37.png"
+ },
+ {
+  "yi": "YI38",
+  "name": "睽",
+  "name_en": "Opposition",
+  "full_name_en": "Fire over Lake",
+  "upper": "Fire",
+  "lower": "Lake",
+  "bits": "110101",
+  "situation_en": "Seeing cross-eyed — mutual estrangement; neither side pleases the other, words don't land.",
+  "source_en": "I Ching, Hexagram 38",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI64",
+    "target_name_en": "Before Completion"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI21",
+    "target_name_en": "Biting Through"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI14",
+    "target_name_en": "Possession in Great Measure"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI41",
+    "target_name_en": "Decrease"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI10",
+    "target_name_en": "Treading"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI54",
+    "target_name_en": "The Marrying Maiden"
+   }
+  ],
+  "boundary_en": "Does not predict when the estrangement will close; does not answer whether to seek common ground or part ways.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI38.png"
+ },
+ {
+  "yi": "YI39",
+  "name": "蹇",
+  "name_en": "Obstruction",
+  "full_name_en": "Water over Mountain",
+  "upper": "Water",
+  "lower": "Mountain",
+  "bits": "001010",
+  "situation_en": "Water ahead, mountains behind — stuck between advance and retreat; both hard, caught in the middle.",
+  "source_en": "I Ching, Hexagram 39",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI63",
+    "target_name_en": "After Completion"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI48",
+    "target_name_en": "The Well"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI08",
+    "target_name_en": "Holding Together"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI31",
+    "target_name_en": "Influence"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI15",
+    "target_name_en": "Modesty"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI53",
+    "target_name_en": "Development"
+   }
+  ],
+  "boundary_en": "Does not predict when the deadlock will break; does not answer whether to push forward or turn back.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI39.png"
+ },
+ {
+  "yi": "YI40",
+  "name": "解",
+  "name_en": "Deliverance",
+  "full_name_en": "Thunder over Water",
+  "upper": "Thunder",
+  "lower": "Water",
+  "bits": "010100",
+  "situation_en": "The knot loosens — tension easing; what's been taut is slackening, room to maneuver appears.",
+  "source_en": "I Ching, Hexagram 40",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI54",
+    "target_name_en": "The Marrying Maiden"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI16",
+    "target_name_en": "Enthusiasm"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI32",
+    "target_name_en": "Duration"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI07",
+    "target_name_en": "The Army"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI47",
+    "target_name_en": "Oppression"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI64",
+    "target_name_en": "Before Completion"
+   }
+  ],
+  "boundary_en": "Does not predict how far the easing can go; does not answer whether to press the advantage or rest a while.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI40.png"
+ },
+ {
+  "yi": "YI41",
+  "name": "损",
+  "name_en": "Decrease",
+  "full_name_en": "Mountain over Lake",
+  "upper": "Mountain",
+  "lower": "Lake",
+  "bits": "110001",
+  "situation_en": "Time to cut back — in a situation demanding reduction; give up a part to keep the whole.",
+  "source_en": "I Ching, Hexagram 41",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI04",
+    "target_name_en": "Youthful Folly"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI27",
+    "target_name_en": "Nourishment"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI26",
+    "target_name_en": "The Taming Power of the Great"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI38",
+    "target_name_en": "Opposition"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI61",
+    "target_name_en": "Inner Truth"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI19",
+    "target_name_en": "Approach"
+   }
+  ],
+  "boundary_en": "Does not predict when the cutting will bottom out; does not answer what to cut or how deep.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI41.png"
+ },
+ {
+  "yi": "YI42",
+  "name": "益",
+  "name_en": "Increase",
+  "full_name_en": "Wind over Thunder",
+  "upper": "Wind",
+  "lower": "Thunder",
+  "bits": "100011",
+  "situation_en": "Someone adds fuel — gaining from outside help; the wind is fair, things are growing.",
+  "source_en": "I Ching, Hexagram 42",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI20",
+    "target_name_en": "Contemplation"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI61",
+    "target_name_en": "Inner Truth"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI37",
+    "target_name_en": "The Family"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI25",
+    "target_name_en": "Innocence"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI27",
+    "target_name_en": "Nourishment"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI03",
+    "target_name_en": "Difficulty at the Beginning"
+   }
+  ],
+  "boundary_en": "Does not predict how long the gain will last; does not answer whether to expand on the momentum or steady it first.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI42.png"
+ },
+ {
+  "yi": "YI43",
+  "name": "夬",
+  "name_en": "Break-through",
+  "full_name_en": "Lake over Heaven",
+  "upper": "Lake",
+  "lower": "Heaven",
+  "bits": "111110",
+  "situation_en": "Showdown time — at a point where the break can't wait; delay breeds chaos.",
+  "source_en": "I Ching, Hexagram 43",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI28",
+    "target_name_en": "Preponderance of the Great"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI49",
+    "target_name_en": "Revolution"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI58",
+    "target_name_en": "The Joyous"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI05",
+    "target_name_en": "Waiting"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI34",
+    "target_name_en": "The Power of the Great"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI01",
+    "target_name_en": "The Creative"
+   }
+  ],
+  "boundary_en": "Does not predict what the decision will bring; does not answer whether to cut fast or cut slow.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI43.png"
+ },
+ {
+  "yi": "YI44",
+  "name": "姤",
+  "name_en": "Coming to Meet",
+  "full_name_en": "Heaven over Wind",
+  "upper": "Heaven",
+  "lower": "Wind",
+  "bits": "011111",
+  "situation_en": "Chance encounter — an unplanned meeting; uninvited, it happened; what follows is unwritten.",
+  "source_en": "I Ching, Hexagram 44",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI01",
+    "target_name_en": "The Creative"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI33",
+    "target_name_en": "Retreat"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI06",
+    "target_name_en": "Conflict"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI57",
+    "target_name_en": "The Gentle"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI50",
+    "target_name_en": "The Cauldron"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI28",
+    "target_name_en": "Preponderance of the Great"
+   }
+  ],
+  "boundary_en": "Does not predict what the encounter will bring; does not answer whether to grow close or keep distance.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI44.png"
+ },
+ {
+  "yi": "YI45",
+  "name": "萃",
+  "name_en": "Gathering Together",
+  "full_name_en": "Lake over Earth",
+  "upper": "Lake",
+  "lower": "Earth",
+  "bits": "000110",
+  "situation_en": "Gathering — people, things, matters converging; the place is warming up.",
+  "source_en": "I Ching, Hexagram 45",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI17",
+    "target_name_en": "Following"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI47",
+    "target_name_en": "Oppression"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI31",
+    "target_name_en": "Influence"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI08",
+    "target_name_en": "Holding Together"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI16",
+    "target_name_en": "Enthusiasm"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI12",
+    "target_name_en": "Standstill"
+   }
+  ],
+  "boundary_en": "Does not predict where the gathering will head; does not answer whether to pull together or disperse.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI45.png"
+ },
+ {
+  "yi": "YI46",
+  "name": "升",
+  "name_en": "Pushing Upward",
+  "full_name_en": "Earth over Wind",
+  "upper": "Earth",
+  "lower": "Wind",
+  "bits": "011000",
+  "situation_en": "Steadily rising — step by step upward; the channel climbs, keep it steady.",
+  "source_en": "I Ching, Hexagram 46",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI11",
+    "target_name_en": "Peace"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI15",
+    "target_name_en": "Modesty"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI07",
+    "target_name_en": "The Army"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI32",
+    "target_name_en": "Duration"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI48",
+    "target_name_en": "The Well"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI18",
+    "target_name_en": "Work on What Has Been Spoiled"
+   }
+  ],
+  "boundary_en": "Does not predict which level the rise will reach; does not answer whether to speed up or gather strength.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI46.png"
+ },
+ {
+  "yi": "YI47",
+  "name": "困",
+  "name_en": "Oppression",
+  "full_name_en": "Lake over Water",
+  "upper": "Lake",
+  "lower": "Water",
+  "bits": "010110",
+  "situation_en": "Water trapped beneath the marsh — the resource exists but cannot flow. Not empty, but stuck.",
+  "source_en": "I Ching, Hexagram 47",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI58",
+    "target_name_en": "The Joyous"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI45",
+    "target_name_en": "Gathering Together"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI28",
+    "target_name_en": "Preponderance of the Great"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI29",
+    "target_name_en": "The Abysmal"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI40",
+    "target_name_en": "Deliverance"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI06",
+    "target_name_en": "Conflict"
+   }
+  ],
+  "boundary_en": "Does not predict when release will come; does not answer whether to leave or stay, attack or defend.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI47.png"
+ },
+ {
+  "yi": "YI48",
+  "name": "井",
+  "name_en": "The Well",
+  "full_name_en": "Water over Wind",
+  "upper": "Water",
+  "lower": "Wind",
+  "bits": "011010",
+  "situation_en": "A well — in the position of nourishing others; the water is there, but only for those who draw; the well feeds people, people must tend the well.",
+  "source_en": "I Ching, Hexagram 48",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI05",
+    "target_name_en": "Waiting"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI39",
+    "target_name_en": "Obstruction"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI29",
+    "target_name_en": "The Abysmal"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI28",
+    "target_name_en": "Preponderance of the Great"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI46",
+    "target_name_en": "Pushing Upward"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI57",
+    "target_name_en": "The Gentle"
+   }
+  ],
+  "boundary_en": "Does not predict when the well will run dry; does not answer whether to draw more or use sparingly.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI48.png"
+ },
+ {
+  "yi": "YI49",
+  "name": "革",
+  "name_en": "Revolution",
+  "full_name_en": "Lake over Fire",
+  "upper": "Lake",
+  "lower": "Fire",
+  "bits": "101110",
+  "situation_en": "The old order is spent — change is unavoidable; the old ways no longer turn, new rules are on the way.",
+  "source_en": "I Ching, Hexagram 49",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI31",
+    "target_name_en": "Influence"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI43",
+    "target_name_en": "Break-through"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI17",
+    "target_name_en": "Following"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI63",
+    "target_name_en": "After Completion"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI55",
+    "target_name_en": "Abundance"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI13",
+    "target_name_en": "Fellowship"
+   }
+  ],
+  "boundary_en": "Does not predict when the change will land; does not answer whether to swap fast or reform gradually.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI49.png"
+ },
+ {
+  "yi": "YI50",
+  "name": "鼎",
+  "name_en": "The Cauldron",
+  "full_name_en": "Fire over Wind",
+  "upper": "Fire",
+  "lower": "Wind",
+  "bits": "011101",
+  "situation_en": "A new cauldron set up — the old cleared away, the new frame stands; now it waits to be filled.",
+  "source_en": "I Ching, Hexagram 50",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI14",
+    "target_name_en": "Possession in Great Measure"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI56",
+    "target_name_en": "The Wanderer"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI64",
+    "target_name_en": "Before Completion"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI18",
+    "target_name_en": "Work on What Has Been Spoiled"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI44",
+    "target_name_en": "Coming to Meet"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI32",
+    "target_name_en": "Duration"
+   }
+  ],
+  "boundary_en": "Does not predict when the new cauldron will stand firm; does not answer what to add, or whether to keep the fire blazing or let it simmer.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI50.png"
+ },
+ {
+  "yi": "YI51",
+  "name": "震",
+  "name_en": "The Arousing",
+  "full_name_en": "Thunder",
+  "upper": "Thunder",
+  "lower": "Thunder",
+  "bits": "100100",
+  "situation_en": "A thunderclap — sudden shock; the ground moves, everyone must find footing first.",
+  "source_en": "I Ching, Hexagram 51",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI16",
+    "target_name_en": "Enthusiasm"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI54",
+    "target_name_en": "The Marrying Maiden"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI55",
+    "target_name_en": "Abundance"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI24",
+    "target_name_en": "Return"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI17",
+    "target_name_en": "Following"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI21",
+    "target_name_en": "Biting Through"
+   }
+  ],
+  "boundary_en": "Does not predict how many waves the shock will send; does not answer whether to duck or face it.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI51.png"
+ },
+ {
+  "yi": "YI52",
+  "name": "艮",
+  "name_en": "Keeping Still",
+  "full_name_en": "Mountain",
+  "upper": "Mountain",
+  "lower": "Mountain",
+  "bits": "001001",
+  "situation_en": "Stop here — at the point where stillness beats motion; halt, see clearly, then decide.",
+  "source_en": "I Ching, Hexagram 52",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI22",
+    "target_name_en": "Grace"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI18",
+    "target_name_en": "Work on What Has Been Spoiled"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI23",
+    "target_name_en": "Splitting Apart"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI56",
+    "target_name_en": "The Wanderer"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI53",
+    "target_name_en": "Development"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI15",
+    "target_name_en": "Modesty"
+   }
+  ],
+  "boundary_en": "Does not predict how long the halt will last; does not answer whether to stay stopped or turn around.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI52.png"
+ },
+ {
+  "yi": "YI53",
+  "name": "渐",
+  "name_en": "Development",
+  "full_name_en": "Wind over Mountain",
+  "upper": "Wind",
+  "lower": "Mountain",
+  "bits": "001011",
+  "situation_en": "Wild geese flying south, one stop at a time — progress by order; no rushing, each stage in turn.",
+  "source_en": "I Ching, Hexagram 53",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI37",
+    "target_name_en": "The Family"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI57",
+    "target_name_en": "The Gentle"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI20",
+    "target_name_en": "Contemplation"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI33",
+    "target_name_en": "Retreat"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI52",
+    "target_name_en": "Keeping Still"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI39",
+    "target_name_en": "Obstruction"
+   }
+  ],
+  "boundary_en": "Does not predict when the journey will arrive; does not answer whether to speed up or keep the order.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI53.png"
+ },
+ {
+  "yi": "YI54",
+  "name": "归妹",
+  "name_en": "The Marrying Maiden",
+  "full_name_en": "Thunder over Lake",
+  "upper": "Thunder",
+  "lower": "Lake",
+  "bits": "110100",
+  "situation_en": "A mismatched union — joined without proper standing; together, but each knows the score.",
+  "source_en": "I Ching, Hexagram 54",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI40",
+    "target_name_en": "Deliverance"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI51",
+    "target_name_en": "The Arousing"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI34",
+    "target_name_en": "The Power of the Great"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI19",
+    "target_name_en": "Approach"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI58",
+    "target_name_en": "The Joyous"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI38",
+    "target_name_en": "Opposition"
+   }
+  ],
+  "boundary_en": "Does not predict how far this union can go; does not answer whether to make do or part.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI54.png"
+ },
+ {
+  "yi": "YI55",
+  "name": "丰",
+  "name_en": "Abundance",
+  "full_name_en": "Thunder over Fire",
+  "upper": "Thunder",
+  "lower": "Fire",
+  "bits": "101100",
+  "situation_en": "At the peak of fullness — abundance overflowing; but fullness is where the turn begins.",
+  "source_en": "I Ching, Hexagram 55",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI62",
+    "target_name_en": "Preponderance of the Small"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI34",
+    "target_name_en": "The Power of the Great"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI51",
+    "target_name_en": "The Arousing"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI36",
+    "target_name_en": "Darkening of the Light"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI49",
+    "target_name_en": "Revolution"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI30",
+    "target_name_en": "The Clinging"
+   }
+  ],
+  "boundary_en": "Does not predict which way the peak will turn; does not answer whether to act at fullness or guard it.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI55.png"
+ },
+ {
+  "yi": "YI56",
+  "name": "旅",
+  "name_en": "The Wanderer",
+  "full_name_en": "Fire over Mountain",
+  "upper": "Fire",
+  "lower": "Mountain",
+  "bits": "001101",
+  "situation_en": "On the road — a sojourner on others' ground; not your territory, tread with care for hosts' moods.",
+  "source_en": "I Ching, Hexagram 56",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI30",
+    "target_name_en": "The Clinging"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI50",
+    "target_name_en": "The Cauldron"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI35",
+    "target_name_en": "Progress"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI52",
+    "target_name_en": "Keeping Still"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI33",
+    "target_name_en": "Retreat"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI62",
+    "target_name_en": "Preponderance of the Small"
+   }
+  ],
+  "boundary_en": "Does not predict when home will be reached; does not answer whether to settle or keep moving.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI56.png"
+ },
+ {
+  "yi": "YI57",
+  "name": "巽",
+  "name_en": "The Gentle",
+  "full_name_en": "Wind",
+  "upper": "Wind",
+  "lower": "Wind",
+  "bits": "011011",
+  "situation_en": "Wind finds every crack — working by infiltration, not force; follow the seams inward.",
+  "source_en": "I Ching, Hexagram 57",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI09",
+    "target_name_en": "The Taming Power of the Small"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI53",
+    "target_name_en": "Development"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI59",
+    "target_name_en": "Dispersion"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI44",
+    "target_name_en": "Coming to Meet"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI18",
+    "target_name_en": "Work on What Has Been Spoiled"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI48",
+    "target_name_en": "The Well"
+   }
+  ],
+  "boundary_en": "Does not predict when the seeping will take effect; does not answer how deep to go or how fast to pull back.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI57.png"
+ },
+ {
+  "yi": "YI58",
+  "name": "兑",
+  "name_en": "The Joyous",
+  "full_name_en": "Lake",
+  "upper": "Lake",
+  "lower": "Lake",
+  "bits": "110110",
+  "situation_en": "Laughter and talk — in a field of easy exchange; good mood, easy words, easy agreements.",
+  "source_en": "I Ching, Hexagram 58",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI47",
+    "target_name_en": "Oppression"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI17",
+    "target_name_en": "Following"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI43",
+    "target_name_en": "Break-through"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI60",
+    "target_name_en": "Limitation"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI54",
+    "target_name_en": "The Marrying Maiden"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI10",
+    "target_name_en": "Treading"
+   }
+  ],
+  "boundary_en": "Does not predict how long the good mood will last; does not answer whether to talk deep or stop at the surface.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI58.png"
+ },
+ {
+  "yi": "YI59",
+  "name": "涣",
+  "name_en": "Dispersion",
+  "full_name_en": "Wind over Water",
+  "upper": "Wind",
+  "lower": "Water",
+  "bits": "010011",
+  "situation_en": "Scattered sand — dispersion; hearts drift, things drift, nothing holds together.",
+  "source_en": "I Ching, Hexagram 59",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI61",
+    "target_name_en": "Inner Truth"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI20",
+    "target_name_en": "Contemplation"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI57",
+    "target_name_en": "The Gentle"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI06",
+    "target_name_en": "Conflict"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI04",
+    "target_name_en": "Youthful Folly"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI29",
+    "target_name_en": "The Abysmal"
+   }
+  ],
+  "boundary_en": "Does not predict when the scattering will end; does not answer whether to gather in or let go.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI59.png"
+ },
+ {
+  "yi": "YI60",
+  "name": "节",
+  "name_en": "Limitation",
+  "full_name_en": "Water over Lake",
+  "upper": "Water",
+  "lower": "Lake",
+  "bits": "110010",
+  "situation_en": "Measure — in the seat of restraint; spend where due, save where due; proportion is everything.",
+  "source_en": "I Ching, Hexagram 60",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI29",
+    "target_name_en": "The Abysmal"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI03",
+    "target_name_en": "Difficulty at the Beginning"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI05",
+    "target_name_en": "Waiting"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI58",
+    "target_name_en": "The Joyous"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI19",
+    "target_name_en": "Approach"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI61",
+    "target_name_en": "Inner Truth"
+   }
+  ],
+  "boundary_en": "Does not predict what restraint will bring in return; does not answer whether to tighten or loosen.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI60.png"
+ },
+ {
+  "yi": "YI61",
+  "name": "中孚",
+  "name_en": "Inner Truth",
+  "full_name_en": "Wind over Lake",
+  "upper": "Wind",
+  "lower": "Lake",
+  "bits": "110011",
+  "situation_en": "Sincerity — standing on trust; once trust is established, the way opens on its own.",
+  "source_en": "I Ching, Hexagram 61",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI59",
+    "target_name_en": "Dispersion"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI42",
+    "target_name_en": "Increase"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI09",
+    "target_name_en": "The Taming Power of the Small"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI10",
+    "target_name_en": "Treading"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI41",
+    "target_name_en": "Decrease"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI60",
+    "target_name_en": "Limitation"
+   }
+  ],
+  "boundary_en": "Does not predict when sincerity will be repaid; does not answer whom to trust or whom to guard against.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI61.png"
+ },
+ {
+  "yi": "YI62",
+  "name": "小过",
+  "name_en": "Preponderance of the Small",
+  "full_name_en": "Thunder over Mountain",
+  "upper": "Thunder",
+  "lower": "Mountain",
+  "bits": "001100",
+  "situation_en": "Small things may slightly exceed, great things must hold back — a time for small moves only.",
+  "source_en": "I Ching, Hexagram 62",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI55",
+    "target_name_en": "Abundance"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI32",
+    "target_name_en": "Duration"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI16",
+    "target_name_en": "Enthusiasm"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI15",
+    "target_name_en": "Modesty"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI31",
+    "target_name_en": "Influence"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI56",
+    "target_name_en": "The Wanderer"
+   }
+  ],
+  "boundary_en": "Does not predict what follows the small excess; does not answer how small counts as small, or how big counts as a breach.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI62.png"
+ },
+ {
+  "yi": "YI63",
+  "name": "既济",
+  "name_en": "After Completion",
+  "full_name_en": "Water over Fire",
+  "upper": "Water",
+  "lower": "Fire",
+  "bits": "101010",
+  "situation_en": "Done — the work complete, the river crossed; but completion is when vigilance slips easiest.",
+  "source_en": "I Ching, Hexagram 63",
+  "edges_en": [
+   {
+    "line_en": "L1 yang",
+    "target_yi": "YI39",
+    "target_name_en": "Obstruction"
+   },
+   {
+    "line_en": "L2 yin",
+    "target_yi": "YI05",
+    "target_name_en": "Waiting"
+   },
+   {
+    "line_en": "L3 yang",
+    "target_yi": "YI03",
+    "target_name_en": "Difficulty at the Beginning"
+   },
+   {
+    "line_en": "L4 yin",
+    "target_yi": "YI49",
+    "target_name_en": "Revolution"
+   },
+   {
+    "line_en": "L5 yang",
+    "target_yi": "YI36",
+    "target_name_en": "Darkening of the Light"
+   },
+   {
+    "line_en": "L6 yin",
+    "target_yi": "YI37",
+    "target_name_en": "The Family"
+   }
+  ],
+  "boundary_en": "Does not predict how long the completed work will hold; does not answer whether to celebrate or stay wary.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI63.png"
+ },
+ {
+  "yi": "YI64",
+  "name": "未济",
+  "name_en": "Before Completion",
+  "full_name_en": "Fire over Water",
+  "upper": "Fire",
+  "lower": "Water",
+  "bits": "010101",
+  "situation_en": "One breath short — not yet done; the moment isn't ripe, the road is long, but the door isn't shut.",
+  "source_en": "I Ching, Hexagram 64",
+  "edges_en": [
+   {
+    "line_en": "L1 yin",
+    "target_yi": "YI38",
+    "target_name_en": "Opposition"
+   },
+   {
+    "line_en": "L2 yang",
+    "target_yi": "YI35",
+    "target_name_en": "Progress"
+   },
+   {
+    "line_en": "L3 yin",
+    "target_yi": "YI50",
+    "target_name_en": "The Cauldron"
+   },
+   {
+    "line_en": "L4 yang",
+    "target_yi": "YI04",
+    "target_name_en": "Youthful Folly"
+   },
+   {
+    "line_en": "L5 yin",
+    "target_yi": "YI06",
+    "target_name_en": "Conflict"
+   },
+   {
+    "line_en": "L6 yang",
+    "target_yi": "YI40",
+    "target_name_en": "Deliverance"
+   }
+  ],
+  "boundary_en": "Does not predict when it can be done; does not answer whether to wait longer or take another road.",
+  "image_url": "https://raw.githubusercontent.com/goldof/hexagram-situation-cards/main/en/png/yi-YI64.png"
+ }
+]

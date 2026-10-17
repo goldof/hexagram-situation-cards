@@ -16,6 +16,16 @@ TRI = {"乾": "111", "兑": "110", "离": "101", "震": "100",
        "巽": "011", "坎": "010", "艮": "001", "坤": "000"}
 TRI_NAME = {v: k for k, v in TRI.items()}
 
+# 传统卦象名:八卦 -> 自然象(用户拍板:卡面一律用传统表现,不用八卦名)
+TRAD = {"乾": "天", "坤": "地", "坎": "水", "离": "火",
+        "震": "雷", "巽": "风", "艮": "山", "兑": "泽"}
+
+
+def full_name(name, upper, lower):
+    if upper == lower:  # 纯卦:乾为天
+        return f"{name}为{TRAD[upper]}"
+    return f"{TRAD[upper]}{TRAD[lower]}{name}"  # 天水讼
+
 # (卦名, 上卦, 下卦) —— 文王卦序,唯一手写输入,下述校验会抓住任何录入错误
 HEX = [
     ("乾", "乾", "乾"), ("坤", "坤", "坤"), ("屯", "坎", "震"), ("蒙", "艮", "坎"),
@@ -53,7 +63,8 @@ def main():
             t = "九" if b == "1" else "六"
             # 传统爻名:初九/上六(爻性在后),九二…九五(爻性在前)
             return (POS[p] + t) if POS[p] in ("初", "上") else (t + POS[p])
-        cards.append({"yi": yi, "name": name, "upper": upper, "lower": lower,
+        cards.append({"yi": yi, "name": name, "full_name": full_name(name, upper, lower),
+                      "upper": upper, "lower": lower,
                       "bits": bits, "yao": [yaoname(p, b) for p, b in enumerate(bits)]})
     by_bits = {c["bits"]: c for c in cards}
     by_yi = {c["yi"]: c for c in cards}

@@ -1,6 +1,6 @@
 # Hexagram Situation Cards
 
-64 numbered situation cards from the 64 hexagrams of the I Ching （易经） — each card is a **minimum self-explanatory unit**: number, hexagram figure, one-line situation, source, yao-change edges, and boundary (when it doesn't apply).
+64 numbered situation cards from the 64 hexagrams of the I Ching （易经） — each card is a **minimum self-explanatory unit**: number, hexagram figure, one-line situation, source, yao-change edges, boundary (when it doesn't apply), and an AI reading instruction (the decoder: how to use the card as a situation-analysis lens).
 
 Feed any card — image or text — to any LLM and it can explain it. No skill installation required.
 
@@ -13,6 +13,8 @@ The 64 hexagrams are a closed, complete taxonomy of situations: 64 is the whole 
 These cards take the opposite stance. Each hexagram becomes one **situation card**: not "why things happen" (that's what the [Adaptive Cognition Cards](https://github.com/goldof/adaptive-cognition-cards) M-series does — mechanisms), but **"where you are"**. The two series are orthogonal and cite each other: M-cards answer *why*, YI-cards answer *where*.
 
 A card is **extreme compression of an LLM's information** — the interpretive tradition of a hexagram, the model's latent knowledge of that situation type, and its transition edges, pressed into ~100 characters plus a number. The number is the decompression key: "see YI47" transmits the whole card in five characters; expansion happens in the reader's mind. And all compression is lossy — so every card declares what was discarded in its boundary box. Compression that hides its losses is exactly how superstition is manufactured. Hence the iron rule on every card: **a situation lens, not a fortune** — no prediction of good/bad luck, no should/shouldn't advice.
+
+A card's boundary box states the contract, but a bare card fed to a general LLM can still lose to the model's prior (in Chinese, 99% of hexagram text online is fortune-telling). So every card also carries an **AI reading instruction**: use the one-liner to describe the situation's structure, list where it can go via the yao-change edges, read out the boundary — no oracle tone, no predictions, no advice. Tested against real models; the instruction holds where the boundary box alone did not.
 
 Every card image carries this repo's URL at the bottom, so that **a single card seen once gives any AI the full project background**: what the series is, how the 64 are numbered, and that numbers are never reused or reordered.
 

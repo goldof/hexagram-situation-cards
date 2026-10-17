@@ -1,0 +1,3394 @@
+[
+ {
+  "yi": "YI01",
+  "name": "乾",
+  "name_en": "The Creative",
+  "upper": "乾",
+  "lower": "乾",
+  "bits": "111111",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "天行不息——处在主动开局的时刻,凭自身力量把事情推起来,全场节奏由你定。",
+  "situation_en": "Heaven in motion — you are opening the game, driving it forward on your own strength.",
+  "source": "《周易》第 1 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI44",
+    "target_name": "姤"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI13",
+    "target_name": "同人"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI10",
+    "target_name": "履"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI09",
+    "target_name": "小畜"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI14",
+    "target_name": "大有"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI43",
+    "target_name": "夬"
+   }
+  ],
+  "boundary": "不预测开局能走多远,不回答该快该慢、该进该退。",
+  "image_url": null
+ },
+ {
+  "yi": "YI02",
+  "name": "坤",
+  "name_en": "The Receptive",
+  "upper": "坤",
+  "lower": "坤",
+  "bits": "000000",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "大地承载——处在顺势而为的位置,不抢头功,把别人的势接住、把事情托住。",
+  "situation_en": "Earth that carries — you are in the supporting role, receiving momentum and holding things steady.",
+  "source": "《周易》第 2 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI24",
+    "target_name": "复"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI07",
+    "target_name": "师"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI15",
+    "target_name": "谦"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI16",
+    "target_name": "豫"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI08",
+    "target_name": "比"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI23",
+    "target_name": "剥"
+   }
+  ],
+  "boundary": "不预测顺势能走多久,不回答该跟谁、该放手还是该接手。",
+  "image_url": null
+ },
+ {
+  "yi": "YI03",
+  "name": "屯",
+  "name_en": "Difficulty at the Beginning",
+  "upper": "坎",
+  "lower": "震",
+  "bits": "100010",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "万事开头难——想法有了,路还没走通,像草木破土,每一寸都在较劲。",
+  "situation_en": "The hardest part is the beginning — the idea exists but the road isn't open yet, like sprouts pushing through soil.",
+  "source": "《周易》第 3 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI08",
+    "target_name": "比"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI60",
+    "target_name": "节"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI63",
+    "target_name": "既济"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI17",
+    "target_name": "随"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI24",
+    "target_name": "复"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI42",
+    "target_name": "益"
+   }
+  ],
+  "boundary": "不预测难关何时过去,不回答该坚持还是该掉头。",
+  "image_url": null
+ },
+ {
+  "yi": "YI04",
+  "name": "蒙",
+  "name_en": "Youthful Folly",
+  "upper": "艮",
+  "lower": "坎",
+  "bits": "010001",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "蒙昧待启——面对的是不懂、不会、不开窍,需要有人点一下,或自己先交学费。",
+  "situation_en": "Darkness before dawn — facing what you don't yet understand; someone must light the lamp, or you pay tuition to learn.",
+  "source": "《周易》第 4 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI41",
+    "target_name": "损"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI23",
+    "target_name": "剥"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI18",
+    "target_name": "蛊"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI64",
+    "target_name": "未济"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI59",
+    "target_name": "涣"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI07",
+    "target_name": "师"
+   }
+  ],
+  "boundary": "不预测何时开窍,不回答该请教谁、该学还是该放。",
+  "image_url": null
+ },
+ {
+  "yi": "YI05",
+  "name": "需",
+  "name_en": "Waiting",
+  "upper": "坎",
+  "lower": "乾",
+  "bits": "111010",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "密云不雨——时机没到,只能等,像等一场雨,急也没用,走也走不开。",
+  "situation_en": "Clouds thick but no rain — the moment hasn't come; all you can do is wait, like waiting for rain.",
+  "source": "《周易》第 5 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI48",
+    "target_name": "井"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI63",
+    "target_name": "既济"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI60",
+    "target_name": "节"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI43",
+    "target_name": "夬"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI11",
+    "target_name": "泰"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI09",
+    "target_name": "小畜"
+   }
+  ],
+  "boundary": "不预测要等多久,不回答该干等还是该做点别的。",
+  "image_url": null
+ },
+ {
+  "yi": "YI06",
+  "name": "讼",
+  "name_en": "Conflict",
+  "upper": "乾",
+  "lower": "坎",
+  "bits": "010111",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "两边各执一词——处在争执里,公说公有理,讲不清,只能摆到台面上论。",
+  "situation_en": "Two sides, each convinced they're right — you're in a dispute that can't be talked out privately.",
+  "source": "《周易》第 6 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI10",
+    "target_name": "履"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI12",
+    "target_name": "否"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI44",
+    "target_name": "姤"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI59",
+    "target_name": "涣"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI64",
+    "target_name": "未济"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI47",
+    "target_name": "困"
+   }
+  ],
+  "boundary": "不预测谁输谁赢,不回答该争到底还是该让一步。",
+  "image_url": null
+ },
+ {
+  "yi": "YI07",
+  "name": "师",
+  "name_en": "The Army",
+  "upper": "坤",
+  "lower": "坎",
+  "bits": "010000",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "带队伍打硬仗——你不是一个人在战斗,身后有人,纪律和方向都得你来定。",
+  "situation_en": "Leading troops into a hard fight — you're not alone; discipline and direction rest on you.",
+  "source": "《周易》第 7 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI19",
+    "target_name": "临"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI02",
+    "target_name": "坤"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI46",
+    "target_name": "升"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI40",
+    "target_name": "解"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI29",
+    "target_name": "坎"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI04",
+    "target_name": "蒙"
+   }
+  ],
+  "boundary": "不预测仗打多久,不回答该攻该守、该赏该罚。",
+  "image_url": null
+ },
+ {
+  "yi": "YI08",
+  "name": "比",
+  "name_en": "Holding Together",
+  "upper": "坎",
+  "lower": "坤",
+  "bits": "000010",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "众人来亲附——处在被依靠、被靠近的位置,人心向你聚,关系网在成形。",
+  "situation_en": "People drawing close — you are the one others lean on; a network is forming around you.",
+  "source": "《周易》第 8 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI03",
+    "target_name": "屯"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI29",
+    "target_name": "坎"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI39",
+    "target_name": "蹇"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI45",
+    "target_name": "萃"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI02",
+    "target_name": "坤"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI20",
+    "target_name": "观"
+   }
+  ],
+  "boundary": "不预测人心能聚多久,不回答该亲近谁、该疏远谁。",
+  "image_url": null
+ },
+ {
+  "yi": "YI09",
+  "name": "小畜",
+  "name_en": "The Taming Power of the Small",
+  "upper": "巽",
+  "lower": "乾",
+  "bits": "111011",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "小有积蓄,也小有阻滞——攒了点东西,但还不够,像云聚了,雨还没下。",
+  "situation_en": "Small savings, small obstacles — you've gathered something, but not enough; clouds gather, rain hasn't fallen.",
+  "source": "《周易》第 9 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI57",
+    "target_name": "巽"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI37",
+    "target_name": "家人"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI61",
+    "target_name": "中孚"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI01",
+    "target_name": "乾"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI26",
+    "target_name": "大畜"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI05",
+    "target_name": "需"
+   }
+  ],
+  "boundary": "不预测何时攒够,不回答该继续攒还是该先用。",
+  "image_url": null
+ },
+ {
+  "yi": "YI10",
+  "name": "履",
+  "name_en": "Treading",
+  "upper": "乾",
+  "lower": "兑",
+  "bits": "110111",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "如履薄冰——脚下是险处,每一步都得看准了踩,走得慢但走得稳。",
+  "situation_en": "Treading on thin ice — every step must land sure; slow, but steady.",
+  "source": "《周易》第 10 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI06",
+    "target_name": "讼"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI25",
+    "target_name": "无妄"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI01",
+    "target_name": "乾"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI61",
+    "target_name": "中孚"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI38",
+    "target_name": "睽"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI58",
+    "target_name": "兑"
+   }
+  ],
+  "boundary": "不预测冰面何时变厚,不回答该快走还是该绕路。",
+  "image_url": null
+ },
+ {
+  "yi": "YI11",
+  "name": "泰",
+  "name_en": "Peace",
+  "upper": "坤",
+  "lower": "乾",
+  "bits": "111000",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "天地交泰——上下通气,阻碍很少,像开春,万物都在生长。",
+  "situation_en": "Heaven and earth in harmony — channels open, resistance low, like early spring when everything grows.",
+  "source": "《周易》第 11 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI46",
+    "target_name": "升"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI36",
+    "target_name": "明夷"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI19",
+    "target_name": "临"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI34",
+    "target_name": "大壮"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI05",
+    "target_name": "需"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI26",
+    "target_name": "大畜"
+   }
+  ],
+  "boundary": "不预测顺境持续多久,不回答该扩张还是该收敛。",
+  "image_url": null
+ },
+ {
+  "yi": "YI12",
+  "name": "否",
+  "name_en": "Standstill",
+  "upper": "乾",
+  "lower": "坤",
+  "bits": "000111",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "天地不交——上下不通,说什么都传不到,像被按了静音,各说各话。",
+  "situation_en": "Heaven and earth apart — nothing gets through; it's like being muted, everyone talking past each other.",
+  "source": "《周易》第 12 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI25",
+    "target_name": "无妄"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI06",
+    "target_name": "讼"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI33",
+    "target_name": "遁"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI20",
+    "target_name": "观"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI35",
+    "target_name": "晋"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI45",
+    "target_name": "萃"
+   }
+  ],
+  "boundary": "不预测闭塞何时打开,不回答该敲门还是该另找路。",
+  "image_url": null
+ },
+ {
+  "yi": "YI13",
+  "name": "同人",
+  "name_en": "Fellowship",
+  "upper": "乾",
+  "lower": "离",
+  "bits": "101111",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "和同道在一起——处在一群目标一致的人中间,方向相同,劲往一处使。",
+  "situation_en": "Among fellow travelers — you're with people heading the same way, pulling together.",
+  "source": "《周易》第 13 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI33",
+    "target_name": "遁"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI01",
+    "target_name": "乾"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI25",
+    "target_name": "无妄"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI37",
+    "target_name": "家人"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI30",
+    "target_name": "离"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI49",
+    "target_name": "革"
+   }
+  ],
+  "boundary": "不预测同行能走多远,不回答该跟谁结盟、该跟谁保持距离。",
+  "image_url": null
+ },
+ {
+  "yi": "YI14",
+  "name": "大有",
+  "name_en": "Possession in Great Measure",
+  "upper": "离",
+  "lower": "乾",
+  "bits": "111101",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "手里东西很多——处在丰盛的时刻,资源、机会、选择都不少,多到要分心。",
+  "situation_en": "Hands full — a time of abundance; resources and options are plenty, enough to distract.",
+  "source": "《周易》第 14 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI50",
+    "target_name": "鼎"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI30",
+    "target_name": "离"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI38",
+    "target_name": "睽"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI26",
+    "target_name": "大畜"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI01",
+    "target_name": "乾"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI34",
+    "target_name": "大壮"
+   }
+  ],
+  "boundary": "不预测丰盛持续多久,不回答该守成还是该再投。",
+  "image_url": null
+ },
+ {
+  "yi": "YI15",
+  "name": "谦",
+  "name_en": "Modesty",
+  "upper": "坤",
+  "lower": "艮",
+  "bits": "001000",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "低调不吃亏——处在不张扬反而被接纳的位置,退一步,路反而宽。",
+  "situation_en": "Low profile, wide road — humility opens doors here; stepping back creates space.",
+  "source": "《周易》第 15 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI36",
+    "target_name": "明夷"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI46",
+    "target_name": "升"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI02",
+    "target_name": "坤"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI62",
+    "target_name": "小过"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI39",
+    "target_name": "蹇"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI52",
+    "target_name": "艮"
+   }
+  ],
+  "boundary": "不预测低调何时见效,不回答该藏多深、该露多少。",
+  "image_url": null
+ },
+ {
+  "yi": "YI16",
+  "name": "豫",
+  "name_en": "Enthusiasm",
+  "upper": "震",
+  "lower": "坤",
+  "bits": "000100",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "松弛的时光——处在安逸愉悦里,享受当下,但也容易忘了备后手。",
+  "situation_en": "Easy times — relaxed and pleasant; enjoyment now, but vigilance tends to slip.",
+  "source": "《周易》第 16 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI51",
+    "target_name": "震"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI40",
+    "target_name": "解"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI62",
+    "target_name": "小过"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI02",
+    "target_name": "坤"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI45",
+    "target_name": "萃"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI35",
+    "target_name": "晋"
+   }
+  ],
+  "boundary": "不预测安逸持续多久,不回答该及时行乐还是该未雨绸缪。",
+  "image_url": null
+ },
+ {
+  "yi": "YI17",
+  "name": "随",
+  "name_en": "Following",
+  "upper": "兑",
+  "lower": "震",
+  "bits": "100110",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "跟着走——处在随从的位置,方向盘不在你手里,跟对人比走得快重要。",
+  "situation_en": "Following — the wheel isn't in your hands; choosing whom to follow matters more than speed.",
+  "source": "《周易》第 17 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI45",
+    "target_name": "萃"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI58",
+    "target_name": "兑"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI49",
+    "target_name": "革"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI03",
+    "target_name": "屯"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI51",
+    "target_name": "震"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI25",
+    "target_name": "无妄"
+   }
+  ],
+  "boundary": "不预测跟的人能走多远,不回答该跟还是该单飞。",
+  "image_url": null
+ },
+ {
+  "yi": "YI18",
+  "name": "蛊",
+  "name_en": "Work on What Has Been Spoiled",
+  "upper": "艮",
+  "lower": "巽",
+  "bits": "011001",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "屋子该整修了——处在积弊已久的局面,问题不是一天攒的,得一件件翻出来治。",
+  "situation_en": "The house needs repair — long-accumulated problems; nothing formed overnight, each must be dug out and fixed.",
+  "source": "《周易》第 18 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI26",
+    "target_name": "大畜"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI52",
+    "target_name": "艮"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI04",
+    "target_name": "蒙"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI50",
+    "target_name": "鼎"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI57",
+    "target_name": "巽"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI46",
+    "target_name": "升"
+   }
+  ],
+  "boundary": "不预测整修要花多久,不回答先治哪件、该大修还是小补。",
+  "image_url": null
+ },
+ {
+  "yi": "YI19",
+  "name": "临",
+  "name_en": "Approach",
+  "upper": "坤",
+  "lower": "兑",
+  "bits": "110000",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "走到跟前了——处在亲临一线的位置,事情近在眼前,看得见摸得着。",
+  "situation_en": "Right at the front — you're close to the action; things are visible, tangible, within reach.",
+  "source": "《周易》第 19 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI07",
+    "target_name": "师"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI24",
+    "target_name": "复"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI11",
+    "target_name": "泰"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI54",
+    "target_name": "归妹"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI60",
+    "target_name": "节"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI41",
+    "target_name": "损"
+   }
+  ],
+  "boundary": "不预测临近之后发生什么,不回答该亲力亲为还是该放手。",
+  "image_url": null
+ },
+ {
+  "yi": "YI20",
+  "name": "观",
+  "name_en": "Contemplation",
+  "upper": "巽",
+  "lower": "坤",
+  "bits": "000011",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "站在高处看——处在观察的位置,先看清楚全貌,不急着下场。",
+  "situation_en": "Watching from above — in the observer's seat; see the whole picture before stepping in.",
+  "source": "《周易》第 20 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI42",
+    "target_name": "益"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI59",
+    "target_name": "涣"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI53",
+    "target_name": "渐"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI12",
+    "target_name": "否"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI23",
+    "target_name": "剥"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI08",
+    "target_name": "比"
+   }
+  ],
+  "boundary": "不预测看出什么结论,不回答何时下场、该看多久。",
+  "image_url": null
+ },
+ {
+  "yi": "YI21",
+  "name": "噬嗑",
+  "name_en": "Biting Through",
+  "upper": "离",
+  "lower": "震",
+  "bits": "100101",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "骨头里有刺——处在硬骨头卡在中间的局面，有障碍横着，不咬碎就过不去。",
+  "situation_en": "A bone stuck in the throat — an obstacle lodged across the path; it must be bitten through to move on.",
+  "source": "《周易》第 21 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI35",
+    "target_name": "晋"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI38",
+    "target_name": "睽"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI30",
+    "target_name": "离"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI27",
+    "target_name": "颐"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI25",
+    "target_name": "无妄"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI51",
+    "target_name": "震"
+   }
+  ],
+  "boundary": "不预测硬骨头多难啃,不回答该硬啃还是该绕开。",
+  "image_url": null
+ },
+ {
+  "yi": "YI22",
+  "name": "贲",
+  "name_en": "Grace",
+  "upper": "艮",
+  "lower": "离",
+  "bits": "101001",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "讲究体面——处在重包装、重门面的时刻,里子有没有,面子先得有。",
+  "situation_en": "Appearances matter — a time for polish and presentation; the surface must hold before anything else.",
+  "source": "《周易》第 22 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI52",
+    "target_name": "艮"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI26",
+    "target_name": "大畜"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI27",
+    "target_name": "颐"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI30",
+    "target_name": "离"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI37",
+    "target_name": "家人"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI36",
+    "target_name": "明夷"
+   }
+  ],
+  "boundary": "不预测体面能撑多久,不回答该重里子还是该重面子。",
+  "image_url": null
+ },
+ {
+  "yi": "YI23",
+  "name": "剥",
+  "name_en": "Splitting Apart",
+  "upper": "艮",
+  "lower": "坤",
+  "bits": "000001",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "墙皮在剥落——处在东西一点点被剥掉的局面,根基还在被掏,得看住最后那点。",
+  "situation_en": "Paint peeling off the wall — things being stripped away layer by layer; watch what remains.",
+  "source": "《周易》第 23 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI27",
+    "target_name": "颐"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI04",
+    "target_name": "蒙"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI52",
+    "target_name": "艮"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI35",
+    "target_name": "晋"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI20",
+    "target_name": "观"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI02",
+    "target_name": "坤"
+   }
+  ],
+  "boundary": "不预测剥落何时见底,不回答该加固还是该放弃。",
+  "image_url": null
+ },
+ {
+  "yi": "YI24",
+  "name": "复",
+  "name_en": "Return",
+  "upper": "坤",
+  "lower": "震",
+  "bits": "100000",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "触底回转——处在由衰转盛的当口,旧的走完了,新的刚冒头。",
+  "situation_en": "The turn — at the pivot from decline to renewal; the old is spent, the new just sprouts.",
+  "source": "《周易》第 24 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI02",
+    "target_name": "坤"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI19",
+    "target_name": "临"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI36",
+    "target_name": "明夷"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI51",
+    "target_name": "震"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI03",
+    "target_name": "屯"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI27",
+    "target_name": "颐"
+   }
+  ],
+  "boundary": "不预测回升有多快,不回答该加码还是该再看看。",
+  "image_url": null
+ },
+ {
+  "yi": "YI25",
+  "name": "无妄",
+  "name_en": "Innocence",
+  "upper": "乾",
+  "lower": "震",
+  "bits": "100111",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "别瞎折腾——处在不妄动反而没事的局面,守住本分,不节外生枝。",
+  "situation_en": "Don't stir trouble — a time when restraint keeps you safe; hold your ground, add nothing extra.",
+  "source": "《周易》第 25 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI12",
+    "target_name": "否"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI10",
+    "target_name": "履"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI13",
+    "target_name": "同人"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI42",
+    "target_name": "益"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI21",
+    "target_name": "噬嗑"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI17",
+    "target_name": "随"
+   }
+  ],
+  "boundary": "不预测安分能保多久平安,不回答该守成还是该试探。",
+  "image_url": null
+ },
+ {
+  "yi": "YI26",
+  "name": "大畜",
+  "name_en": "The Taming Power of the Great",
+  "upper": "艮",
+  "lower": "乾",
+  "bits": "111001",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "大仓满了——处在厚积的阶段,攒的东西够多,缺的是一个出手的时机。",
+  "situation_en": "The granary is full — a phase of deep accumulation; plenty stored, waiting for the moment to act.",
+  "source": "《周易》第 26 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI18",
+    "target_name": "蛊"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI22",
+    "target_name": "贲"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI41",
+    "target_name": "损"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI14",
+    "target_name": "大有"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI09",
+    "target_name": "小畜"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI11",
+    "target_name": "泰"
+   }
+  ],
+  "boundary": "不预测时机何时到,不回答该继续攒还是该出手。",
+  "image_url": null
+ },
+ {
+  "yi": "YI27",
+  "name": "颐",
+  "name_en": "The Corners of the Mouth (Nourishment)",
+  "upper": "艮",
+  "lower": "震",
+  "bits": "100001",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "养人养自己——处在靠供养运转的局面,养什么、被什么养,决定了长成什么样。",
+  "situation_en": "Nourishment — everything runs on what feeds it; what you feed, and what feeds you, shapes what grows.",
+  "source": "《周易》第 27 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI23",
+    "target_name": "剥"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI41",
+    "target_name": "损"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI22",
+    "target_name": "贲"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI21",
+    "target_name": "噬嗑"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI42",
+    "target_name": "益"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI24",
+    "target_name": "复"
+   }
+  ],
+  "boundary": "不预测养分够吃多久,不回答该养什么、该断什么粮。",
+  "image_url": null
+ },
+ {
+  "yi": "YI28",
+  "name": "大过",
+  "name_en": "Preponderance of the Great",
+  "upper": "兑",
+  "lower": "巽",
+  "bits": "011110",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "栋梁弯了——处在过度、非常规的局面,正常招式不够用,非常时期行非常事。",
+  "situation_en": "The beam is bending — an excessive, extraordinary situation; ordinary moves won't do.",
+  "source": "《周易》第 28 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI43",
+    "target_name": "夬"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI31",
+    "target_name": "咸"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI47",
+    "target_name": "困"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI48",
+    "target_name": "井"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI32",
+    "target_name": "恒"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI44",
+    "target_name": "姤"
+   }
+  ],
+  "boundary": "不预测非常态持续多久,不回答该撑住还是该换梁。",
+  "image_url": null
+ },
+ {
+  "yi": "YI29",
+  "name": "坎",
+  "name_en": "The Abysmal (Water)",
+  "upper": "坎",
+  "lower": "坎",
+  "bits": "010010",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "一险接一险——处在险境连环的位置,刚出一坑又一坎,只能一关一关过。",
+  "situation_en": "Danger upon danger — pit after pit; the only way is through, one at a time.",
+  "source": "《周易》第 29 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI60",
+    "target_name": "节"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI08",
+    "target_name": "比"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI48",
+    "target_name": "井"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI47",
+    "target_name": "困"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI07",
+    "target_name": "师"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI59",
+    "target_name": "涣"
+   }
+  ],
+  "boundary": "不预测险境何时到头,不回答该硬闯还是该等水退。",
+  "image_url": null
+ },
+ {
+  "yi": "YI30",
+  "name": "离",
+  "name_en": "The Clinging (Fire)",
+  "upper": "离",
+  "lower": "离",
+  "bits": "101101",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "火要附着东西烧——处在靠依附才能发光的位置,有明,但得有所附。",
+  "situation_en": "Fire needs fuel to burn — brightness here depends on attachment; clarity exists, but it clings to something.",
+  "source": "《周易》第 30 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI56",
+    "target_name": "旅"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI14",
+    "target_name": "大有"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI21",
+    "target_name": "噬嗑"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI22",
+    "target_name": "贲"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI13",
+    "target_name": "同人"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI55",
+    "target_name": "丰"
+   }
+  ],
+  "boundary": "不预测光明照多远,不回答该依附谁、该靠自己。",
+  "image_url": null
+ },
+ {
+  "yi": "YI31",
+  "name": "咸",
+  "name_en": "Influence",
+  "upper": "兑",
+  "lower": "艮",
+  "bits": "001110",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "心有感应——处在互相有感觉的时刻,还没挑明,但双方都接到了信号。",
+  "situation_en": "A felt response — mutual signals not yet spoken aloud, but both sides have received them.",
+  "source": "《周易》第 31 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI49",
+    "target_name": "革"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI28",
+    "target_name": "大过"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI45",
+    "target_name": "萃"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI39",
+    "target_name": "蹇"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI62",
+    "target_name": "小过"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI33",
+    "target_name": "遁"
+   }
+  ],
+  "boundary": "不预测感应通向哪里,不回答该挑明还是该再等等。",
+  "image_url": null
+ },
+ {
+  "yi": "YI32",
+  "name": "恒",
+  "name_en": "Duration",
+  "upper": "震",
+  "lower": "巽",
+  "bits": "011100",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "细水长流——处在靠恒久取胜的局面,不比爆发,比谁不断。",
+  "situation_en": "The long steady stream — winning by endurance here, not by bursts; it's about who doesn't break.",
+  "source": "《周易》第 32 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI34",
+    "target_name": "大壮"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI62",
+    "target_name": "小过"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI40",
+    "target_name": "解"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI46",
+    "target_name": "升"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI28",
+    "target_name": "大过"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI50",
+    "target_name": "鼎"
+   }
+  ],
+  "boundary": "不预测恒久能撑多久,不回答该加码还是该维持。",
+  "image_url": null
+ },
+ {
+  "yi": "YI33",
+  "name": "遁",
+  "name_en": "Retreat",
+  "upper": "乾",
+  "lower": "艮",
+  "bits": "001111",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "该退了——处在退比进明智的时刻,不是认输,是留得青山。",
+  "situation_en": "Time to step back — retreat is the wiser move now; not surrender, but keeping the mountain green.",
+  "source": "《周易》第 33 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI13",
+    "target_name": "同人"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI44",
+    "target_name": "姤"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI12",
+    "target_name": "否"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI53",
+    "target_name": "渐"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI56",
+    "target_name": "旅"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI31",
+    "target_name": "咸"
+   }
+  ],
+  "boundary": "不预测退到何时能回,不回答该退多远、该带什么走。",
+  "image_url": null
+ },
+ {
+  "yi": "YI34",
+  "name": "大壮",
+  "name_en": "The Power of the Great",
+  "upper": "震",
+  "lower": "乾",
+  "bits": "111100",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "壮过头了——处在力量过盛的局面,劲大容易折,收着点反而走得远。",
+  "situation_en": "Too strong — power in excess; great force snaps easily, holding back travels further.",
+  "source": "《周易》第 34 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI32",
+    "target_name": "恒"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI55",
+    "target_name": "丰"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI54",
+    "target_name": "归妹"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI11",
+    "target_name": "泰"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI43",
+    "target_name": "夬"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI14",
+    "target_name": "大有"
+   }
+  ],
+  "boundary": "不预测盛极何时转衰,不回答该收敛还是该趁热。",
+  "image_url": null
+ },
+ {
+  "yi": "YI35",
+  "name": "晋",
+  "name_en": "Progress",
+  "upper": "离",
+  "lower": "坤",
+  "bits": "000101",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "往上走——处在被提拔、被看见的上升通道里,台阶在脚下,一级一级上。",
+  "situation_en": "Moving up — in an ascending channel, seen and lifted; the steps are underfoot, one at a time.",
+  "source": "《周易》第 35 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI21",
+    "target_name": "噬嗑"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI64",
+    "target_name": "未济"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI56",
+    "target_name": "旅"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI23",
+    "target_name": "剥"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI12",
+    "target_name": "否"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI16",
+    "target_name": "豫"
+   }
+  ],
+  "boundary": "不预测能升到哪一级,不回答该快上还是该稳扎。",
+  "image_url": null
+ },
+ {
+  "yi": "YI36",
+  "name": "明夷",
+  "name_en": "Darkening of the Light",
+  "upper": "坤",
+  "lower": "离",
+  "bits": "101000",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "光被遮住了——处在明珠暗投的局面,有光但不能露,得藏着走。",
+  "situation_en": "Light obscured — brightness that can't show itself; keep it hidden and move quietly.",
+  "source": "《周易》第 36 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI15",
+    "target_name": "谦"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI11",
+    "target_name": "泰"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI24",
+    "target_name": "复"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI55",
+    "target_name": "丰"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI63",
+    "target_name": "既济"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI22",
+    "target_name": "贲"
+   }
+  ],
+  "boundary": "不预测黑暗持续多久,不回答该韬晦还是该冒险露光。",
+  "image_url": null
+ },
+ {
+  "yi": "YI37",
+  "name": "家人",
+  "name_en": "The Family",
+  "upper": "巽",
+  "lower": "离",
+  "bits": "101011",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "家里的事——处在以内治为主的局面,先把内部理顺,外面自然顺。",
+  "situation_en": "Household matters — the inside must be set right first; order within, and the outside follows.",
+  "source": "《周易》第 37 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI53",
+    "target_name": "渐"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI09",
+    "target_name": "小畜"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI42",
+    "target_name": "益"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI13",
+    "target_name": "同人"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI22",
+    "target_name": "贲"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI63",
+    "target_name": "既济"
+   }
+  ],
+  "boundary": "不预测家事何时理顺,不回答该严还是该宽。",
+  "image_url": null
+ },
+ {
+  "yi": "YI38",
+  "name": "睽",
+  "name_en": "Opposition",
+  "upper": "离",
+  "lower": "兑",
+  "bits": "110101",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "看不对眼——处在互相乖离的局面,各看各不顺眼,话不投机。",
+  "situation_en": "Seeing cross-eyed — mutual estrangement; neither side pleases the other, words don't land.",
+  "source": "《周易》第 38 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI64",
+    "target_name": "未济"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI21",
+    "target_name": "噬嗑"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI14",
+    "target_name": "大有"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI41",
+    "target_name": "损"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI10",
+    "target_name": "履"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI54",
+    "target_name": "归妹"
+   }
+  ],
+  "boundary": "不预测乖离何时弥合,不回答该求同还是该分道。",
+  "image_url": null
+ },
+ {
+  "yi": "YI39",
+  "name": "蹇",
+  "name_en": "Obstruction",
+  "upper": "坎",
+  "lower": "艮",
+  "bits": "001010",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "前有水后有山——处在进退两难的位置,进也难,退也难,卡在中间。",
+  "situation_en": "Water ahead, mountains behind — stuck between advance and retreat; both hard, caught in the middle.",
+  "source": "《周易》第 39 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI63",
+    "target_name": "既济"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI48",
+    "target_name": "井"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI08",
+    "target_name": "比"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI31",
+    "target_name": "咸"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI15",
+    "target_name": "谦"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI53",
+    "target_name": "渐"
+   }
+  ],
+  "boundary": "不预测僵局何时打破,不回答该硬进还是该回头。",
+  "image_url": null
+ },
+ {
+  "yi": "YI40",
+  "name": "解",
+  "name_en": "Deliverance",
+  "upper": "震",
+  "lower": "坎",
+  "bits": "010100",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "绳结松了——处在紧张缓解的当口,绷着的劲在松,事情有了转圜。",
+  "situation_en": "The knot loosens — tension easing; what's been taut is slackening, room to maneuver appears.",
+  "source": "《周易》第 40 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI54",
+    "target_name": "归妹"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI16",
+    "target_name": "豫"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI32",
+    "target_name": "恒"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI07",
+    "target_name": "师"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI47",
+    "target_name": "困"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI64",
+    "target_name": "未济"
+   }
+  ],
+  "boundary": "不预测缓解能走多远,不回答该趁势推还是该歇一歇。",
+  "image_url": null
+ },
+ {
+  "yi": "YI41",
+  "name": "损",
+  "name_en": "Decrease",
+  "upper": "艮",
+  "lower": "兑",
+  "bits": "110001",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "要割点肉——处在要做减法的局面，舍掉一部分，才能保住大头。",
+  "situation_en": "Time to cut back — in a situation demanding reduction; give up a part to keep the whole.",
+  "source": "《周易》第 41 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI04",
+    "target_name": "蒙"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI27",
+    "target_name": "颐"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI26",
+    "target_name": "大畜"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI38",
+    "target_name": "睽"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI61",
+    "target_name": "中孚"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI19",
+    "target_name": "临"
+   }
+  ],
+  "boundary": "不预测减损到何时见底,不回答该割哪块、割多深。",
+  "image_url": null
+ },
+ {
+  "yi": "YI42",
+  "name": "益",
+  "name_en": "Increase",
+  "upper": "巽",
+  "lower": "震",
+  "bits": "100011",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "有人添柴——处在得外力增益的局面,顺风来,东西在往多了长。",
+  "situation_en": "Someone adds fuel — gaining from outside help; the wind is fair, things are growing.",
+  "source": "《周易》第 42 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI20",
+    "target_name": "观"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI61",
+    "target_name": "中孚"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI37",
+    "target_name": "家人"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI25",
+    "target_name": "无妄"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI27",
+    "target_name": "颐"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI03",
+    "target_name": "屯"
+   }
+  ],
+  "boundary": "不预测增益持续多久,不回答该乘势扩还是该先稳住。",
+  "image_url": null
+ },
+ {
+  "yi": "YI43",
+  "name": "夬",
+  "name_en": "Break-through",
+  "upper": "兑",
+  "lower": "乾",
+  "bits": "111110",
+  "yao": [
+   "初九",
+   "九二",
+   "九三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "到摊牌的时候了——处在非断不可的关口，拖不得，不断就乱。",
+  "situation_en": "Showdown time — at a point where the break can't wait; delay breeds chaos.",
+  "source": "《周易》第 43 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI28",
+    "target_name": "大过"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI49",
+    "target_name": "革"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI58",
+    "target_name": "兑"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI05",
+    "target_name": "需"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI34",
+    "target_name": "大壮"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI01",
+    "target_name": "乾"
+   }
+  ],
+  "boundary": "不预测决断后果如何,不回答该快刀还是该缓刀。",
+  "image_url": null
+ },
+ {
+  "yi": "YI44",
+  "name": "姤",
+  "name_en": "Coming to Meet",
+  "upper": "乾",
+  "lower": "巽",
+  "bits": "011111",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "九四",
+   "九五",
+   "上九"
+  ],
+  "situation": "不期而遇——处在意外相逢的局面,没约好,撞上了,后头怎么发展看造化。",
+  "situation_en": "Chance encounter — an unplanned meeting; uninvited, it happened; what follows is unwritten.",
+  "source": "《周易》第 44 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI01",
+    "target_name": "乾"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI33",
+    "target_name": "遁"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI06",
+    "target_name": "讼"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI57",
+    "target_name": "巽"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI50",
+    "target_name": "鼎"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI28",
+    "target_name": "大过"
+   }
+  ],
+  "boundary": "不预测相逢带来什么,不回答该深交还是该保持距离。",
+  "image_url": null
+ },
+ {
+  "yi": "YI45",
+  "name": "萃",
+  "name_en": "Gathering Together",
+  "upper": "兑",
+  "lower": "坤",
+  "bits": "000110",
+  "yao": [
+   "初六",
+   "六二",
+   "六三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "人聚起来了——处在聚集的局面,人、物、事往一处拢,场子热起来了。",
+  "situation_en": "Gathering — people, things, matters converging; the place is warming up.",
+  "source": "《周易》第 45 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI17",
+    "target_name": "随"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI47",
+    "target_name": "困"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI31",
+    "target_name": "咸"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI08",
+    "target_name": "比"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI16",
+    "target_name": "豫"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI12",
+    "target_name": "否"
+   }
+  ],
+  "boundary": "不预测聚集后往哪去,不回答该聚拢还是该散开。",
+  "image_url": null
+ },
+ {
+  "yi": "YI46",
+  "name": "升",
+  "name_en": "Pushing Upward",
+  "upper": "坤",
+  "lower": "巽",
+  "bits": "011000",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "六四",
+   "六五",
+   "上六"
+  ],
+  "situation": "芝麻开花——处在节节上升的通道里,一步一台阶,稳着往上走。",
+  "situation_en": "Steadily rising — step by step upward; the channel climbs, keep it steady.",
+  "source": "《周易》第 46 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI11",
+    "target_name": "泰"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI15",
+    "target_name": "谦"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI07",
+    "target_name": "师"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI32",
+    "target_name": "恒"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI48",
+    "target_name": "井"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI18",
+    "target_name": "蛊"
+   }
+  ],
+  "boundary": "不预测上升到哪一层,不回答该加速还是该蓄力。",
+  "image_url": null
+ },
+ {
+  "yi": "YI47",
+  "name": "困",
+  "name_en": "Oppression",
+  "upper": "兑",
+  "lower": "坎",
+  "bits": "010110",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "泽下有水,水被困住——资源还在,但流不动了。有能力、有存量,却被环境卡住,动弹不得。",
+  "situation_en": "Water trapped beneath the marsh — the resource exists but cannot flow. Not empty, but stuck.",
+  "source": "《周易》第 47 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI58",
+    "target_name": "兑"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI45",
+    "target_name": "萃"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI28",
+    "target_name": "大过"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI29",
+    "target_name": "坎"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI40",
+    "target_name": "解"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI06",
+    "target_name": "讼"
+   }
+  ],
+  "boundary": "不预测何时脱困,不回答该走该留、该攻该守。",
+  "image_url": null
+ },
+ {
+  "yi": "YI48",
+  "name": "井",
+  "name_en": "The Well",
+  "upper": "坎",
+  "lower": "巽",
+  "bits": "011010",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "一口井——处在养人的位置,水在那,不来打就没水喝,井养人,人也得护井。",
+  "situation_en": "A well — in the position of nourishing others; the water is there, but only for those who draw; the well feeds people, people must tend the well.",
+  "source": "《周易》第 48 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI05",
+    "target_name": "需"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI39",
+    "target_name": "蹇"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI29",
+    "target_name": "坎"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI28",
+    "target_name": "大过"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI46",
+    "target_name": "升"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI57",
+    "target_name": "巽"
+   }
+  ],
+  "boundary": "不预测井水何时见底,不回答该多打还是该省着用。",
+  "image_url": null
+ },
+ {
+  "yi": "YI49",
+  "name": "革",
+  "name_en": "Revolution",
+  "upper": "兑",
+  "lower": "离",
+  "bits": "101110",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "要换天了——处在非变不可的关口,旧的那套转不动了,新规矩在路上。",
+  "situation_en": "The old order is spent — change is unavoidable; the old ways no longer turn, new rules are on the way.",
+  "source": "《周易》第 49 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI31",
+    "target_name": "咸"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI43",
+    "target_name": "夬"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI17",
+    "target_name": "随"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI63",
+    "target_name": "既济"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI55",
+    "target_name": "丰"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI13",
+    "target_name": "同人"
+   }
+  ],
+  "boundary": "不预测变革何时落地,不回答该快刀换还是该渐进改。",
+  "image_url": null
+ },
+ {
+  "yi": "YI50",
+  "name": "鼎",
+  "name_en": "The Cauldron",
+  "upper": "离",
+  "lower": "巽",
+  "bits": "011101",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "立新鼎——处在除旧布新的局面,新架子搭起来了,等的是往里添东西。",
+  "situation_en": "A new cauldron set up — the old cleared away, the new frame stands; now it waits to be filled.",
+  "source": "《周易》第 50 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI14",
+    "target_name": "大有"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI56",
+    "target_name": "旅"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI64",
+    "target_name": "未济"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI18",
+    "target_name": "蛊"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI44",
+    "target_name": "姤"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI32",
+    "target_name": "恒"
+   }
+  ],
+  "boundary": "不预测新鼎何时立稳,不回答该添什么料、该旺火还是文火。",
+  "image_url": null
+ },
+ {
+  "yi": "YI51",
+  "name": "震",
+  "name_en": "The Arousing (Thunder)",
+  "upper": "震",
+  "lower": "震",
+  "bits": "100100",
+  "yao": [
+   "初九",
+   "六二",
+   "六三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "一声雷——处在突发震动的局面,地动了,所有人都得先站稳再说。",
+  "situation_en": "A thunderclap — sudden shock; the ground moves, everyone must find footing first.",
+  "source": "《周易》第 51 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI16",
+    "target_name": "豫"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI54",
+    "target_name": "归妹"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI55",
+    "target_name": "丰"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI24",
+    "target_name": "复"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI17",
+    "target_name": "随"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI21",
+    "target_name": "噬嗑"
+   }
+  ],
+  "boundary": "不预测震动持续几波,不回答该躲还是该迎上去。",
+  "image_url": null
+ },
+ {
+  "yi": "YI52",
+  "name": "艮",
+  "name_en": "Keeping Still (Mountain)",
+  "upper": "艮",
+  "lower": "艮",
+  "bits": "001001",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "六四",
+   "六五",
+   "上九"
+  ],
+  "situation": "到此为止——处在该停的关口,动不如静,停下来,看清楚再说。",
+  "situation_en": "Stop here — at the point where stillness beats motion; halt, see clearly, then decide.",
+  "source": "《周易》第 52 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI22",
+    "target_name": "贲"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI18",
+    "target_name": "蛊"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI23",
+    "target_name": "剥"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI56",
+    "target_name": "旅"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI53",
+    "target_name": "渐"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI15",
+    "target_name": "谦"
+   }
+  ],
+  "boundary": "不预测要停多久,不回答该原地停还是该掉头。",
+  "image_url": null
+ },
+ {
+  "yi": "YI53",
+  "name": "渐",
+  "name_en": "Development",
+  "upper": "巽",
+  "lower": "艮",
+  "bits": "001011",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "鸿雁南飞,一步一站——处在循序渐进的局面,急不得,按部就班自有到时。",
+  "situation_en": "Wild geese flying south, one stop at a time — progress by order; no rushing, each stage in turn.",
+  "source": "《周易》第 53 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI37",
+    "target_name": "家人"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI57",
+    "target_name": "巽"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI20",
+    "target_name": "观"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI33",
+    "target_name": "遁"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI52",
+    "target_name": "艮"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI39",
+    "target_name": "蹇"
+   }
+  ],
+  "boundary": "不预测何时到站,不回答该提速还是该守序。",
+  "image_url": null
+ },
+ {
+  "yi": "YI54",
+  "name": "归妹",
+  "name_en": "The Marrying Maiden",
+  "upper": "震",
+  "lower": "兑",
+  "bits": "110100",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "嫁得不对位——处在名分不正的结合里,凑合在一起,心里各有数。",
+  "situation_en": "A mismatched union — joined without proper standing; together, but each knows the score.",
+  "source": "《周易》第 54 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI40",
+    "target_name": "解"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI51",
+    "target_name": "震"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI34",
+    "target_name": "大壮"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI19",
+    "target_name": "临"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI58",
+    "target_name": "兑"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI38",
+    "target_name": "睽"
+   }
+  ],
+  "boundary": "不预测这段结合走多远,不回答该将就还是该散。",
+  "image_url": null
+ },
+ {
+  "yi": "YI55",
+  "name": "丰",
+  "name_en": "Abundance",
+  "upper": "震",
+  "lower": "离",
+  "bits": "101100",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "日中则昃前——处在丰盛的顶点,东西多到满出来,但满就是转折的开始。",
+  "situation_en": "At the peak of fullness — abundance overflowing; but fullness is where the turn begins.",
+  "source": "《周易》第 55 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI62",
+    "target_name": "小过"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI34",
+    "target_name": "大壮"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI51",
+    "target_name": "震"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI36",
+    "target_name": "明夷"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI49",
+    "target_name": "革"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI30",
+    "target_name": "离"
+   }
+  ],
+  "boundary": "不预测顶点之后向哪转,不回答该趁满出手还是该守满。",
+  "image_url": null
+ },
+ {
+  "yi": "YI56",
+  "name": "旅",
+  "name_en": "The Wanderer",
+  "upper": "离",
+  "lower": "艮",
+  "bits": "001101",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "人在旅途——处在寄人篱下的羁旅中,不是自己的地盘,行事得看人脸色。",
+  "situation_en": "On the road — a sojourner on others' ground; not your territory, tread with care for hosts' moods.",
+  "source": "《周易》第 56 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI30",
+    "target_name": "离"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI50",
+    "target_name": "鼎"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI35",
+    "target_name": "晋"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI52",
+    "target_name": "艮"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI33",
+    "target_name": "遁"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI62",
+    "target_name": "小过"
+   }
+  ],
+  "boundary": "不预测何时到家,不回答该安顿还是该继续走。",
+  "image_url": null
+ },
+ {
+  "yi": "YI57",
+  "name": "巽",
+  "name_en": "The Gentle (Wind)",
+  "upper": "巽",
+  "lower": "巽",
+  "bits": "011011",
+  "yao": [
+   "初六",
+   "九二",
+   "九三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "风行无孔不入——处在靠渗透起作用的局面,不硬来,顺着缝往里走。",
+  "situation_en": "Wind finds every crack — working by infiltration, not force; follow the seams inward.",
+  "source": "《周易》第 57 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI09",
+    "target_name": "小畜"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI53",
+    "target_name": "渐"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI59",
+    "target_name": "涣"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI44",
+    "target_name": "姤"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI18",
+    "target_name": "蛊"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI48",
+    "target_name": "井"
+   }
+  ],
+  "boundary": "不预测渗透何时见效,不回答该进多深、该收多快。",
+  "image_url": null
+ },
+ {
+  "yi": "YI58",
+  "name": "兑",
+  "name_en": "The Joyous (Lake)",
+  "upper": "兑",
+  "lower": "兑",
+  "bits": "110110",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "九四",
+   "九五",
+   "上六"
+  ],
+  "situation": "说说笑笑——处在和悦交流的场子里,气氛松,话易出口,事易商量。",
+  "situation_en": "Laughter and talk — in a field of easy exchange; good mood, easy words, easy agreements.",
+  "source": "《周易》第 58 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI47",
+    "target_name": "困"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI17",
+    "target_name": "随"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI43",
+    "target_name": "夬"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI60",
+    "target_name": "节"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI54",
+    "target_name": "归妹"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI10",
+    "target_name": "履"
+   }
+  ],
+  "boundary": "不预测和气持续多久,不回答该深谈还是该点到为止。",
+  "image_url": null
+ },
+ {
+  "yi": "YI59",
+  "name": "涣",
+  "name_en": "Dispersion",
+  "upper": "巽",
+  "lower": "坎",
+  "bits": "010011",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "一盘散沙——处在涣散的局面,人心散了,东西也在散,拢不起来。",
+  "situation_en": "Scattered sand — dispersion; hearts drift, things drift, nothing holds together.",
+  "source": "《周易》第 59 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI61",
+    "target_name": "中孚"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI20",
+    "target_name": "观"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI57",
+    "target_name": "巽"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI06",
+    "target_name": "讼"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI04",
+    "target_name": "蒙"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI29",
+    "target_name": "坎"
+   }
+  ],
+  "boundary": "不预测涣散何时到头,不回答该收拢还是该放手。",
+  "image_url": null
+ },
+ {
+  "yi": "YI60",
+  "name": "节",
+  "name_en": "Limitation",
+  "upper": "坎",
+  "lower": "兑",
+  "bits": "110010",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "有度——处在讲节制的位置,该用用,该省省,分寸就是命。",
+  "situation_en": "Measure — in the seat of restraint; spend where due, save where due; proportion is everything.",
+  "source": "《周易》第 60 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI29",
+    "target_name": "坎"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI03",
+    "target_name": "屯"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI05",
+    "target_name": "需"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI58",
+    "target_name": "兑"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI19",
+    "target_name": "临"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI61",
+    "target_name": "中孚"
+   }
+  ],
+  "boundary": "不预测节制换来什么,不回答该紧还是该松。",
+  "image_url": null
+ },
+ {
+  "yi": "YI61",
+  "name": "中孚",
+  "name_en": "Inner Truth",
+  "upper": "巽",
+  "lower": "兑",
+  "bits": "110011",
+  "yao": [
+   "初九",
+   "九二",
+   "六三",
+   "六四",
+   "九五",
+   "上九"
+  ],
+  "situation": "心诚——处在以诚信立身的局面,信立住了,路自然有人让。",
+  "situation_en": "Sincerity — standing on trust; once trust is established, the way opens on its own.",
+  "source": "《周易》第 61 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI59",
+    "target_name": "涣"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI42",
+    "target_name": "益"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI09",
+    "target_name": "小畜"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI10",
+    "target_name": "履"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI41",
+    "target_name": "损"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI60",
+    "target_name": "节"
+   }
+  ],
+  "boundary": "不预测诚信何时见回报,不回答该信谁、该防谁。",
+  "image_url": null
+ },
+ {
+  "yi": "YI62",
+  "name": "小过",
+  "name_en": "Preponderance of the Small",
+  "upper": "震",
+  "lower": "艮",
+  "bits": "001100",
+  "yao": [
+   "初六",
+   "六二",
+   "九三",
+   "九四",
+   "六五",
+   "上六"
+  ],
+  "situation": "小事可稍过，大事须收敛——处在宜小不宜大的局面，小处可越界，大处要守规矩。",
+  "situation_en": "Small things may slightly exceed, great things must hold back — a time for small moves only.",
+  "source": "《周易》第 62 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI55",
+    "target_name": "丰"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI32",
+    "target_name": "恒"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI16",
+    "target_name": "豫"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI15",
+    "target_name": "谦"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI31",
+    "target_name": "咸"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI56",
+    "target_name": "旅"
+   }
+  ],
+  "boundary": "不预测小过之后如何，不回答多小算过、多大算犯。",
+  "image_url": null
+ },
+ {
+  "yi": "YI63",
+  "name": "既济",
+  "name_en": "After Completion",
+  "upper": "坎",
+  "lower": "离",
+  "bits": "101010",
+  "yao": [
+   "初九",
+   "六二",
+   "九三",
+   "六四",
+   "九五",
+   "上六"
+  ],
+  "situation": "事成了——处在功成之后的局面,水已过河,但成了之后最容易松懈。",
+  "situation_en": "Done — the work complete, the river crossed; but completion is when vigilance slips easiest.",
+  "source": "《周易》第 63 卦",
+  "edges": [
+   {
+    "line": "初九",
+    "target_yi": "YI39",
+    "target_name": "蹇"
+   },
+   {
+    "line": "六二",
+    "target_yi": "YI05",
+    "target_name": "需"
+   },
+   {
+    "line": "九三",
+    "target_yi": "YI03",
+    "target_name": "屯"
+   },
+   {
+    "line": "六四",
+    "target_yi": "YI49",
+    "target_name": "革"
+   },
+   {
+    "line": "九五",
+    "target_yi": "YI36",
+    "target_name": "明夷"
+   },
+   {
+    "line": "上六",
+    "target_yi": "YI37",
+    "target_name": "家人"
+   }
+  ],
+  "boundary": "不预测成局守多久,不回答该庆功还是该思危。",
+  "image_url": null
+ },
+ {
+  "yi": "YI64",
+  "name": "未济",
+  "name_en": "Before Completion",
+  "upper": "离",
+  "lower": "坎",
+  "bits": "010101",
+  "yao": [
+   "初六",
+   "九二",
+   "六三",
+   "九四",
+   "六五",
+   "上九"
+  ],
+  "situation": "差一口气——处在还没成的局面,火候未到,路还长,但门没关。",
+  "situation_en": "One breath short — not yet done; the moment isn't ripe, the road is long, but the door isn't shut.",
+  "source": "《周易》第 64 卦",
+  "edges": [
+   {
+    "line": "初六",
+    "target_yi": "YI38",
+    "target_name": "睽"
+   },
+   {
+    "line": "九二",
+    "target_yi": "YI35",
+    "target_name": "晋"
+   },
+   {
+    "line": "六三",
+    "target_yi": "YI50",
+    "target_name": "鼎"
+   },
+   {
+    "line": "九四",
+    "target_yi": "YI04",
+    "target_name": "蒙"
+   },
+   {
+    "line": "六五",
+    "target_yi": "YI06",
+    "target_name": "讼"
+   },
+   {
+    "line": "上九",
+    "target_yi": "YI40",
+    "target_name": "解"
+   }
+  ],
+  "boundary": "不预测何时能成,不回答该再等等还是该换条路。",
+  "image_url": null
+ }
+]
